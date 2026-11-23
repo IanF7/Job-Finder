@@ -1,31 +1,9 @@
 {
- "generated_at": "2026-11-23T17:07:11+00:00",
+ "generated_at": "2026-11-23T17:35:25+00:00",
  "date_arizona": "2026-11-23",
- "count": 17,
- "new_today": 17,
+ "count": 16,
+ "new_today": 16,
  "jobs": [
-  {
-   "company": "Intel (Chandler)",
-   "category": "software",
-   "tier": "az",
-   "commute": "borderline",
-   "bucket": "software",
-   "engine_mentioned": false,
-   "sim_or_xr_mentioned": true,
-   "title": "SATAS Graduate Research Intern \u2013 Modeling and Simulation",
-   "location": "US, Arizona, Phoenix",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/SATAS-Graduate-Research-Intern---Modeling-and-Simulation_JR0287092",
-   "posted": "2026-11-23",
-   "first_seen": "2026-11-23",
-   "pay": {
-    "min": 133498,
-    "max": 133498,
-    "unit": "year"
-   },
-   "min_years_mentioned": null,
-   "description_excerpt": "Job Details: \n \n \n Job Description:\u00a0\nPosition Overview We are seeking a highly motivated graduate engineering intern to support SATAS modeling, simulation, digital twin development, and system optimization activities. The intern will develop parameter-based engineering models that enable the SATAS team to evaluate manufacturing system capabilities, configurations, and design alternatives. These models will support What-If (WIF) scenarios used to assess equipment architecture, system sizing, material flow, capacity, throughput, equipment utilization, factory space, automated material handling requirements, energy productivity, and waste-reduction opportunities. The role combines analytical modeling, discrete-event simulation, systems engineering, optimization, sustainability analysis, and data analysis. The intern will work with engineering subject-matter experts to translate process flows, equipment specifications, operating assumptions, energy and utility inputs, material-loss drivers, and facility constraints into reusable decision-support models. \n \n Qualifications: \n Minimum Qualifications \n Graduate student pursuing an MS or PhD degree in Industrial Engineering, Systems Engineering, Mechanical Engineering, Manufacturing Engineering, Operations Research, Computer Science, Data Science, or a related technical discipline.\n 3+ months of educational, research, laboratory, internship, or industry experience. \n Strong academic performance with a cumulative GPA of 3.0 or higher preferred \n Coursework or project experience in modeling and simulation, manufacturing systems, operations research, systems engineering, optimization, or industrial engineering.\n Programming experience using Python, MATLAB, C++, R, or a similar technical language.\n Experience developing analytical models using spreadsheets, engineering software, simulation tools, or programming environments.\n Understanding of statistical analysis, data visualization, and structured engineering problem solving.\n Ability to organize complex technical assumptions into a logical and maintainable model structure.\n Ability to communicate modeling methods, assumptions, limitations, and results clearly.\n Demonstrated ability to work independently while collaborating with a multidisciplinary technical team.\n \n Preferred Qualifications \n Experience with discrete-event simulation software such as Siemens Plant Simulation, AnyLogic, FlexSim, Simio, Arena, or equivalent.\n Experience developing digital twin, manufacturing simulation, logistics, or material-flow models.\n Experience with mathematical optimization, design-space exploration, sensitivity analysis, Monte Carlo simulation, or design of experiments.\n Knowledge of manufacturing capacity planning, factory physics, queueing theory, production scheduling, or operations research.\n Coursework or project experience in industrial energy analysis, sustainable manufacturing, life-cycle thinking, material efficiency, yield improvement, or waste reduction.\n Experience developing parameter-driven tools, reusable model libraries, application interfaces, or engineering dashboards.\n Experience with Python data and optimization libraries, SQL, structured datasets, data pipelines, version control, or similar analytical toolsets.\n Familiarity with CAD layouts, equipment footprints, facility modeling, or spatial analysis.\n Knowledge of automated material handling systems, robotics, mobile robots, overhead transport, conveyors, or automated storage systems.",
-   "id": "wd-intel-JR0287092"
-  },
   {
    "company": "Epic Games",
    "category": "game",
