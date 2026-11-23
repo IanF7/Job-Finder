@@ -38,6 +38,7 @@ jobs:
             echo "No changes"
           else
             git commit -m "Job results $(TZ=America/Phoenix date +%F)"
-            git pull --rebase origin main
+            # if another run saved results meanwhile, keep this run's (newer) files
+            git pull --rebase -X theirs origin main
             git push
           fi
