@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-23T16:58:44+00:00",
+ "generated_at": "2026-11-23T17:07:11+00:00",
  "feeds_ok": 28,
- "feeds_failed": 54,
+ "feeds_failed": 0,
  "feeds": [
   {
    "company": "Riot Games",
@@ -17,7 +17,7 @@
    "feed": "epicgames",
    "ok": true,
    "total_jobs": 137,
-   "matched": 11
+   "matched": 7
   },
   {
    "company": "Bungie",
@@ -28,26 +28,12 @@
    "matched": 0
   },
   {
-   "company": "Bungie",
-   "ats": "greenhouse",
-   "feed": "bungieinc",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
    "company": "Naughty Dog",
    "ats": "greenhouse",
    "feed": "naughtydog",
    "ok": true,
    "total_jobs": 12,
    "matched": 0
-  },
-  {
-   "company": "Insomniac Games",
-   "ats": "greenhouse",
-   "feed": "insomniacgames",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "company": "Insomniac Games",
@@ -63,21 +49,7 @@
    "feed": "sonyglobal/SonyGlobalCareers",
    "ok": true,
    "total_jobs": 123,
-   "matched": 3
-  },
-  {
-   "company": "Activision Blizzard",
-   "ats": "workday",
-   "feed": "activision/External",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 422: Unprocessable Entity"
-  },
-  {
-   "company": "Electronic Arts",
-   "ats": "workday",
-   "feed": "ea/EA_External",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 422: Unprocessable Entity"
+   "matched": 0
   },
   {
    "company": "Take-Two / 2K / Gearbox",
@@ -85,14 +57,7 @@
    "feed": "2k",
    "ok": true,
    "total_jobs": 82,
-   "matched": 3
-  },
-  {
-   "company": "Take-Two / 2K / Gearbox",
-   "ats": "greenhouse",
-   "feed": "gearboxsoftware",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "matched": 2
   },
   {
    "company": "Take-Two / 2K / Gearbox",
@@ -132,126 +97,7 @@
    "feed": "KeywordsStudios",
    "ok": true,
    "total_jobs": 18,
-   "matched": 4
-  },
-  {
-   "company": "Certain Affinity",
-   "ats": "greenhouse",
-   "feed": "certainaffinity",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Certain Affinity",
-   "ats": "lever",
-   "feed": "certainaffinity",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Cloud Imperium Games",
-   "ats": "greenhouse",
-   "feed": "cloudimperiumgames",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Cloud Imperium Games",
-   "ats": "greenhouse",
-   "feed": "cloudimperium",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Aspyr",
-   "ats": "greenhouse",
-   "feed": "aspyr",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Aspyr",
-   "ats": "lever",
-   "feed": "aspyr",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "NCSoft",
-   "ats": "greenhouse",
-   "feed": "ncsoftwest",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "NCSoft",
-   "ats": "greenhouse",
-   "feed": "ncsoft",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Hi-Rez Studios",
-   "ats": "greenhouse",
-   "feed": "hirezstudios",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Hi-Rez Studios",
-   "ats": "lever",
-   "feed": "hirezstudios",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Frost Giant Studios",
-   "ats": "greenhouse",
-   "feed": "frostgiantstudios",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Frost Giant Studios",
-   "ats": "ashby",
-   "feed": "frostgiant",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Theorycraft Games",
-   "ats": "greenhouse",
-   "feed": "theorycraftgames",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Theorycraft Games",
-   "ats": "ashby",
-   "feed": "theorycraft",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Mountaintop Studios",
-   "ats": "greenhouse",
-   "feed": "mountaintopstudios",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Mountaintop Studios",
-   "ats": "ashby",
-   "feed": "mountaintop",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Heart Machine",
-   "ats": "greenhouse",
-   "feed": "heartmachine",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "matched": 0
   },
   {
    "company": "Unknown Worlds",
@@ -270,61 +116,12 @@
    "matched": 0
   },
   {
-   "company": "Mob Entertainment",
-   "ats": "lever",
-   "feed": "mobentertainment",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
    "company": "Jagex",
    "ats": "lever",
    "feed": "jagex",
    "ok": true,
    "total_jobs": 0,
    "matched": 0
-  },
-  {
-   "company": "Jagex",
-   "ats": "greenhouse",
-   "feed": "jagex",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Splash Damage",
-   "ats": "greenhouse",
-   "feed": "splashdamage",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Splash Damage",
-   "ats": "lever",
-   "feed": "splashdamage",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Wildlight Entertainment",
-   "ats": "ashby",
-   "feed": "wildlight",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Wildlight Entertainment",
-   "ats": "greenhouse",
-   "feed": "wildlightentertainment",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Bad Robot Games",
-   "ats": "greenhouse",
-   "feed": "badrobotgames",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "company": "Behaviour Interactive",
@@ -343,33 +140,12 @@
    "matched": 0
   },
   {
-   "company": "Unity Technologies",
-   "ats": "greenhouse",
-   "feed": "unity3d",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Unity Technologies",
-   "ats": "greenhouse",
-   "feed": "unitytechnologies",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
    "company": "Axon (Scottsdale - VR training)",
    "ats": "greenhouse",
    "feed": "axon",
    "ok": true,
    "total_jobs": 468,
-   "matched": 15
-  },
-  {
-   "company": "Axon (Scottsdale - VR training)",
-   "ats": "lever",
-   "feed": "axon",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "matched": 1
   },
   {
    "company": "Waymo (Chandler/remote simulation)",
@@ -377,29 +153,15 @@
    "feed": "waymo",
    "ok": true,
    "total_jobs": 361,
-   "matched": 1
+   "matched": 0
   },
   {
    "company": "Anduril",
    "ats": "greenhouse",
    "feed": "andurilindustries",
    "ok": true,
-   "total_jobs": 2631,
-   "matched": 1
-  },
-  {
-   "company": "Applied Intuition",
-   "ats": "greenhouse",
-   "feed": "appliedintuition",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Applied Intuition",
-   "ats": "ashby",
-   "feed": "appliedintuition",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "total_jobs": 2630,
+   "matched": 0
   },
   {
    "company": "Shield AI",
@@ -408,27 +170,6 @@
    "ok": true,
    "total_jobs": 0,
    "matched": 0
-  },
-  {
-   "company": "Skydio",
-   "ats": "greenhouse",
-   "feed": "skydio",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Skydio",
-   "ats": "lever",
-   "feed": "skydio",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Aurora Innovation",
-   "ats": "greenhouse",
-   "feed": "aurorainnovation",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "company": "Nuro",
@@ -447,103 +188,12 @@
    "matched": 0
   },
   {
-   "company": "Magic Leap",
-   "ats": "greenhouse",
-   "feed": "magicleap",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Magic Leap",
-   "ats": "lever",
-   "feed": "magicleap",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Osso VR",
-   "ats": "lever",
-   "feed": "ossovr",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Osso VR",
-   "ats": "greenhouse",
-   "feed": "ossovr",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Strivr",
-   "ats": "greenhouse",
-   "feed": "strivr",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Strivr",
-   "ats": "lever",
-   "feed": "strivr",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Duality Robotics",
-   "ats": "lever",
-   "feed": "duality",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Duality Robotics",
-   "ats": "greenhouse",
-   "feed": "dualityrobotics",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Bohemia Interactive Simulations",
-   "ats": "greenhouse",
-   "feed": "bisimulations",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Bohemia Interactive Simulations",
-   "ats": "lever",
-   "feed": "bisimulations",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Cesium",
-   "ats": "greenhouse",
-   "feed": "cesium",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Cesium",
-   "ats": "lever",
-   "feed": "cesium",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "company": "Matterport",
-   "ats": "greenhouse",
-   "feed": "matterport",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
    "company": "Intel (Chandler)",
    "ats": "workday",
    "feed": "intel/External",
    "ok": true,
    "total_jobs": 240,
-   "matched": 32
+   "matched": 3
   },
   {
    "company": "Northrop Grumman (Chandler)",
@@ -551,7 +201,7 @@
    "feed": "ngc/Northrop_Grumman_External_Site",
    "ok": true,
    "total_jobs": 171,
-   "matched": 7
+   "matched": 3
   },
   {
    "company": "Boeing (Mesa)",
@@ -559,7 +209,7 @@
    "feed": "boeing/EXTERNAL_CAREERS",
    "ok": true,
    "total_jobs": 200,
-   "matched": 1
+   "matched": 0
   },
   {
    "company": "RTX / Raytheon / Collins",
@@ -570,40 +220,12 @@
    "matched": 0
   },
   {
-   "company": "General Dynamics Mission Systems (Scottsdale)",
-   "ats": "workday",
-   "feed": "gdms/GDMS",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 422: Unprocessable Entity"
-  },
-  {
-   "company": "Honeywell Aerospace (Tempe/Phoenix)",
-   "ats": "workday",
-   "feed": "honeywell/Honeywell",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 422: Unprocessable Entity"
-  },
-  {
-   "company": "NXP (Chandler)",
-   "ats": "workday",
-   "feed": "nxp/careers",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 422: Unprocessable Entity"
-  },
-  {
    "company": "Microchip (Chandler)",
    "ats": "workday",
    "feed": "microchiphr/External",
    "ok": true,
    "total_jobs": 36,
-   "matched": 4
-  },
-  {
-   "company": "Arizona State University",
-   "ats": "workday",
-   "feed": "asu/ASUCareers",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "matched": 1
   }
  ]
 }
