@@ -244,14 +244,16 @@ ART = re.compile(r"\b(artist|animator|animation|vfx|concept art|illustrat|rigger
                  r"art director|sculpt|texture)\b", re.I)
 GAME_TITLE = re.compile(r"\b(design(er)?|gameplay|game|programmer|engineer|developer|prototyp|"
                         r"tools|qa|quality assurance|tester|test analyst|producer|scripter|"
-                        r"unity|unreal|ai|intern|apprentice)\b", re.I)
+                        r"unity|unreal|ai)\b", re.I)
 ENGINE = re.compile(r"\bunity(3d)?\b(?!\s+of\b)|\bunreal\b|\bue[45]\b|real[- ]time 3d|game engine", re.I)
 SIMVR = re.compile(r"\bxr\b|\bvr\b|virtual reality|augmented reality|mixed reality|simulation|simulator", re.I)
-SW_TITLE = re.compile(r"\b(software|developer|programmer|engineer)\b", re.I)
+SW_TITLE = re.compile(r"\b(software|developer|programmer|sdet|embedded|simulation|c\+\+|tools engineer|game engineer|gameplay engineer|graphics engineer|xr engineer|vr engineer)\b", re.I)
+NON_DEV = re.compile(r"\b(marketing|communications|product manag\w*|program manag\w*|project manag\w*|sales|recruit\w*|finance|legal|accountant|accounting|payroll|people|talent|field service|customer|support specialist|operations specialist|mba|community manager|business development|buyer|sourcing)\b", re.I)
 SW_NONWEB_BAD = re.compile(r"\b(web|front[- ]?end|full[- ]?stack|ui engineer|react|angular|"
                            r"wordpress|php|salesforce|servicenow|sap|sales|support engineer|"
                            r"network engineer|field|hardware|mechanical|electrical|manufacturing|"
                            r"process engineer|civil|technician)\b", re.I)
+ENGINE_HW = re.compile(r"\b(fpga|rtl|asic|yield|device|fab|packaging|silicon|analog|thermal|reliability|power integrity|validation|cad|eda|database administrator|devops|it )\b", re.I)
 MOBILE_CASINO = re.compile(r"\b(casino|slots?|igaming|gambling|sweepstakes|sportsbook|roblox|uefn|fortnite creative|verse)\b", re.I)
 
 AZ_NEAR = ["chandler", "gilbert", "tempe", "mesa", "ahwatukee", "sun lakes"]
@@ -260,17 +262,23 @@ AZ_ANY = AZ_NEAR + AZ_BORDER + ["glendale", "peoria", "surprise", "goodyear", "a
                                 "tolleson", "buckeye", "arizona", ", az", " az ", "az,"]
 TX = re.compile(r"\b(texas|tx|austin|dallas|fort worth|houston|san antonio|plano|frisco|richardson|irving|round rock|el paso)\b", re.I)
 CAROLINAS = re.compile(r"\b(north carolina|south carolina|nc|sc|raleigh|durham|cary|charlotte|morrisville|"
-                       r"chapel hill|greensboro|wilmington|charleston|columbia|greenville)\b", re.I)
+                       r"chapel hill|greensboro|charleston|columbia,? sc|greenville,? sc|wilmington,? nc)\b", re.I)
+US_STATES = re.compile(r"\b(alabama|alaska|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|idaho|illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|minnesota|mississippi|missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|new york|north dakota|ohio|oklahoma|oregon|pennsylvania|rhode island|south dakota|tennessee|utah|vermont|virginia|washington|west virginia|wisconsin|wyoming)\b", re.I)
 REMOTE = re.compile(r"\bremote\b|work from home|\bwfh\b|anywhere", re.I)
 NON_US = re.compile(r"\b(canada|uk|united kingdom|england|london|ireland|germany|france|poland|"
                     r"netherlands|spain|sweden|finland|india|china|japan|korea|singapore|australia|"
-                    r"brazil|mexico|emea|europe|apac|latam|montreal|toronto|vancouver|quebec)\b", re.I)
+                    r"brazil|mexico|emea|europe|apac|latam|montreal|toronto|vancouver|quebec|tokyo|jp|british columbia|burnaby|ontario|alberta|seoul|shanghai|bangalore|bengaluru|warsaw|berlin|paris|dublin|stockholm|helsinki|amsterdam|barcelona|madrid|sydney|melbourne|singapore|taipei|manila)\b", re.I)
 
 
 def location_tier(job):
-    loc = (job["location"] or "").lower().replace("costa mesa", "costa-m")
+    loc = (job["location"] or "").lower().replace("costa mesa", "costa-m").replace("washington, d.c", "dc")
     padded = f" {loc} "
+    has_us = re.search(r"\b(us|usa|united states|u\.s\.)\b", loc)
+    if NON_US.search(loc) and not has_us and not any(c in padded for c in AZ_ANY):
+        return None, None
     if any(c in padded for c in AZ_ANY):
+        if (job.get("remote") or REMOTE.search(loc)) and not any(c in loc for c in AZ_NEAR + AZ_BORDER):
+            return "remote", ""
         if any(c in loc for c in AZ_NEAR):
             return "az", "near"
         if any(c in loc for c in AZ_BORDER):
@@ -278,7 +286,14 @@ def location_tier(job):
         return "az", "far"
     is_remote = job.get("remote") or REMOTE.search(loc)
     if is_remote:
-        if NON_US.search(loc) and not re.search(r"\b(us|usa|united states|u\.s\.)\b", loc):
+        # "Florida-Remote" / "Remote - Massachusetts" = must live in that state
+        if TX.search(loc):
+            return "tx", ""
+        if CAROLINAS.search(loc):
+            return "carolinas", ""
+        if US_STATES.search(loc):
+            return None, None
+        if NON_US.search(loc) and not has_us:
             return None, None
         return "remote", ""
     if TX.search(loc):
@@ -324,7 +339,7 @@ def min_years(desc):
 
 def keep(company, job):
     t = job["title"]
-    if SENIOR.search(t) or MOBILE_CASINO.search(t) or MOBILE_CASINO.search(company["name"]):
+    if SENIOR.search(t) or NON_DEV.search(t) or MOBILE_CASINO.search(t) or MOBILE_CASINO.search(company["name"]):
         return None
     tier, commute = location_tier(job)
     if not tier:
@@ -340,7 +355,7 @@ def keep(company, job):
         # Unity/Unreal outside games: needs engine mention; otherwise general software.
         if engine and not ART.search(t) and SW_TITLE.search(t + " developer"):
             bucket = "unity-unreal"
-        elif SW_TITLE.search(t) and not SW_NONWEB_BAD.search(t):
+        elif SW_TITLE.search(t) and not SW_NONWEB_BAD.search(t) and not ENGINE_HW.search(t):
             bucket = "software"
         else:
             return None
