@@ -19,6 +19,7 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -365,6 +366,115 @@ def keep(company, job):
     return {"tier": tier, "commute": commute, "bucket": bucket, "engine_mentioned": engine,
             "sim_or_xr_mentioned": bool(SIMVR.search(t) or SIMVR.search(desc))}
 
+
+# ---------------------------------------------------------------- Google Jobs (SerpApi)
+# Google Jobs aggregates LinkedIn, Indeed, Glassdoor, ZipRecruiter and company sites.
+# Free SerpApi plan = 250 searches/month, so this runs a small fixed set of searches
+# on weekday scheduled/manual runs only, with a hard monthly cap.
+
+SERP_MONTHLY_CAP = 230
+SERP_SEARCHES = [
+    # (query, location, remote_only)
+    ("junior gameplay programmer", "United States", True),
+    ("technical designer video game", "United States", True),
+    ("associate game designer", "United States", True),
+    ("junior unreal engine developer", "United States", True),
+    ("junior unity developer", "United States", True),
+    ("game developer", "Phoenix, Arizona, United States", False),
+    ("unreal engine developer", "Phoenix, Arizona, United States", False),
+    ("unity developer", "Phoenix, Arizona, United States", False),
+    ("software engineer C++", "Chandler, Arizona, United States", False),
+]
+GAMEISH = re.compile(r"\b(game|gameplay|games|level design|technical designer|systems designer|combat designer|quest designer|studio)\b", re.I)
+BOARD_HOSTS = ("linkedin.", "indeed.", "glassdoor.", "ziprecruiter.", "simplyhired.", "monster.", "talent.com", "careerbuilder.", "jooble.", "builtin.", "dice.")
+
+
+def serp_posted(s):
+    m = re.search(r"(\d+)\s+(hour|day|week|month)", s or "")
+    if not m:
+        return ""
+    n, unit = int(m.group(1)), m.group(2)
+    days = {"hour": 0, "day": n, "week": 7 * n, "month": 30 * n}[unit]
+    return (TODAY - dt.timedelta(days=days)).isoformat()
+
+
+def serp_jobs(status, results, seen):
+    import hashlib, os
+    key = os.environ.get("SERPAPI_KEY", "")
+    event = os.environ.get("GITHUB_EVENT_NAME", "manual")
+    if not key:
+        status.append({"company": "Google Jobs (SerpApi)", "ats": "serpapi", "feed": "-", "ok": False,
+                       "error": "SERPAPI_KEY secret not set"})
+        return
+    if event == "push" or TODAY.weekday() >= 5:
+        status.append({"company": "Google Jobs (SerpApi)", "ats": "serpapi", "feed": "-", "ok": True,
+                       "total_jobs": 0, "matched": 0, "note": "skipped (push run or weekend) to save free searches"})
+        return
+    usage_path = DATA / "serp_usage.json"
+    usage = json.loads(usage_path.read_text()) if usage_path.exists() else {}
+    month = TODAY.strftime("%Y-%m")
+    used = usage.get(month, 0)
+    for q, loc, remote_only in SERP_SEARCHES:
+        entry = {"company": "Google Jobs (SerpApi)", "ats": "serpapi", "feed": f"{q} @ {loc}"}
+        if used >= SERP_MONTHLY_CAP:
+            entry.update(ok=False, error=f"monthly cap {SERP_MONTHLY_CAP} reached")
+            status.append(entry)
+            continue
+        params = {"engine": "google_jobs", "q": q, "location": loc, "hl": "en", "gl": "us", "api_key": key}
+        if remote_only:
+            params["ltype"] = "1"
+        url = "https://serpapi.com/search.json?" + urllib.parse.urlencode(params)
+        try:
+            j = http(url)
+            used += 1
+        except Exception as e:
+            entry.update(ok=False, error=f"{type(e).__name__}: {e}"[:200])
+            status.append(entry)
+            continue
+        if j.get("error"):
+            entry.update(ok=False, error=str(j["error"])[:200])
+            status.append(entry)
+            continue
+        rows = j.get("jobs_results", [])
+        kept = 0
+        for x in rows:
+            ext = x.get("detected_extensions") or {}
+            company = x.get("company_name", "")
+            title = x.get("title", "")
+            desc = x.get("description", "")
+            loc_s = x.get("location", "") + (" (Remote)" if ext.get("work_from_home") else "")
+            opts = x.get("apply_options") or []
+            direct = [o for o in opts if not any(h in (o.get("link") or "") for h in BOARD_HOSTS)]
+            link = (direct or opts or [{}])[0].get("link") or x.get("share_link", "")
+            cat = "game" if (GAMEISH.search(title) or GAMEISH.search(company)) else "sim"
+            if MOBILE_CASINO.search(desc[:1500]) or re.search(r"\bmobile game", desc[:1500], re.I):
+                continue
+            job = {"title": title, "location": loc_s, "description": desc,
+                   "remote": True if ext.get("work_from_home") else None}
+            pre = keep({"name": company, "category": cat}, job)
+            if not pre:
+                continue
+            jid = "gj-" + hashlib.sha1(f"{company.lower()}|{title.lower()}".encode()).hexdigest()[:16]
+            if any(r["id"] == jid for r in results):
+                continue
+            first_seen = seen.setdefault(jid, TODAY.isoformat())
+            pay = extract_pay(desc) or ({"text": ext["salary"]} if ext.get("salary") else None)
+            results.append({
+                "company": company, "category": cat, **pre, "title": title, "location": loc_s,
+                "url": link, "all_apply_links": [o.get("link") for o in opts][:6],
+                "source": "Google Jobs " + (x.get("via") or ""),
+                "posted": serp_posted(ext.get("posted_at", "")), "first_seen": first_seen,
+                "pay": pay, "min_years_mentioned": min_years(desc),
+                "description_excerpt": desc[:3500], "id": jid,
+            })
+            kept += 1
+        entry.update(ok=True, total_jobs=len(rows), matched=kept)
+        status.append(entry)
+        print(f"ok   Google Jobs [{q} @ {loc}] {len(rows)} results, {kept} matched")
+        time.sleep(1)
+    usage[month] = used
+    usage_path.write_text(json.dumps(usage, indent=1))
+
 # ---------------------------------------------------------------- main
 
 def main():
@@ -425,6 +535,8 @@ def main():
             status.append(entry)
             print(f"ok   {company['name']} [{src['ats']}:{label}] {len(jobs)} jobs, {kept} matched")
             time.sleep(1)
+
+    serp_jobs(status, results, seen)
 
     # Drop seen entries older than 120 days that are no longer open
     open_ids = {r["id"] for r in results}
