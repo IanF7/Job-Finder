@@ -1,0 +1,62 @@
+# Copy this to config.yaml and fill it in. config.yaml stays on your computer
+# (it's in .gitignore) — never commit it.
+# Anything still containing "TODO" stops the tool until you fill it in.
+
+gmail:
+  address: you@gmail.com
+  # Google Account → Security → 2-Step Verification (must be on) → App passwords → create one
+  app_password: "TODO 16-character app password"
+
+files:
+  resume_pdf: IanFletcher-Resume.pdf
+  cover_letter_template: cover_letter_template.txt
+
+me:
+  first_name: First
+  last_name: Last
+  email: you@gmail.com
+  phone: "TODO"
+  location: "City, State"
+  state: State
+  zip: ""
+  linkedin: "TODO https://www.linkedin.com/in/..."
+  github: https://github.com/you
+  portfolio: https://you.github.io
+  current_company: Company
+  current_title: Title
+  school: University
+  degree: Bachelor's Degree
+  major: Computer Science
+  grad_date: "April 2025"
+  gpa: ""
+
+answers:
+  authorized_to_work_us: "TODO Yes/No"
+  need_sponsorship: "TODO Yes/No"
+  willing_to_relocate: "TODO Yes/No"
+  ok_with_onsite_or_hybrid: "Yes"
+  start_date: "Two weeks after an offer"
+  salary_expectation: "TODO e.g. 75,000-90,000 or Negotiable"
+  how_did_you_hear: "Company website"
+  referral: ""
+  security_clearance: "TODO e.g. No / None"
+  ok_with_background_check: "Yes"
+  years_professional: "TODO"
+  years_unreal: "TODO"
+  years_unity: "TODO"
+  years_cpp: "TODO"
+  shipped_title: "TODO"
+  pronouns: ""
+  eeo_gender: "Decline to self-identify"
+  eeo_hispanic: "Decline to self-identify"
+  eeo_race: "Decline to self-identify"
+  eeo_veteran: "I don't wish to answer"
+  eeo_disability: "I don't wish to answer"
+  eeo_decline: "Decline to self-identify"
+
+settings:
+  auto_submit: true          # false = fill everything but let you click Submit
+  max_per_run: 15
+  pause_between_jobs_sec: 8
+  open_other_sites_for_me: true   # Workday/other sites: open the page so you can apply by hand
+  browser_path: ""           # leave blank to use the browser Playwright installs

@@ -1,0 +1,9 @@
+# auto-applier personal files (stay on your computer)
+auto_apply/config.yaml
+auto_apply/applied.json
+auto_apply/browser_profile/
+auto_apply/output/
+auto_apply/*.pdf
+auto_apply/*.docx
+auto_apply/cover_letter_template.txt
+__pycache__/
