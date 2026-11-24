@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-23T17:49:31+00:00",
- "feeds_ok": 29,
+ "generated_at": "2026-11-24T20:49:41+00:00",
+ "feeds_ok": 37,
  "feeds_failed": 0,
  "feeds": [
   {
@@ -8,7 +8,7 @@
    "ats": "greenhouse",
    "feed": "riotgames",
    "ok": true,
-   "total_jobs": 204,
+   "total_jobs": 201,
    "matched": 0
   },
   {
@@ -24,7 +24,7 @@
    "ats": "greenhouse",
    "feed": "bungie",
    "ok": true,
-   "total_jobs": 2,
+   "total_jobs": 1,
    "matched": 0
   },
   {
@@ -40,7 +40,7 @@
    "ats": "greenhouse",
    "feed": "insomniac",
    "ok": true,
-   "total_jobs": 6,
+   "total_jobs": 5,
    "matched": 0
   },
   {
@@ -48,7 +48,7 @@
    "ats": "workday",
    "feed": "sonyglobal/SonyGlobalCareers",
    "ok": true,
-   "total_jobs": 123,
+   "total_jobs": 122,
    "matched": 0
   },
   {
@@ -56,8 +56,8 @@
    "ats": "greenhouse",
    "feed": "2k",
    "ok": true,
-   "total_jobs": 82,
-   "matched": 2
+   "total_jobs": 79,
+   "matched": 1
   },
   {
    "company": "Take-Two / 2K / Gearbox",
@@ -72,7 +72,7 @@
    "ats": "workday",
    "feed": "warnerbros/global",
    "ok": true,
-   "total_jobs": 31,
+   "total_jobs": 29,
    "matched": 0
   },
   {
@@ -144,7 +144,7 @@
    "ats": "greenhouse",
    "feed": "axon",
    "ok": true,
-   "total_jobs": 468,
+   "total_jobs": 466,
    "matched": 1
   },
   {
@@ -152,7 +152,7 @@
    "ats": "greenhouse",
    "feed": "waymo",
    "ok": true,
-   "total_jobs": 361,
+   "total_jobs": 358,
    "matched": 0
   },
   {
@@ -160,7 +160,7 @@
    "ats": "greenhouse",
    "feed": "andurilindustries",
    "ok": true,
-   "total_jobs": 2630,
+   "total_jobs": 2605,
    "matched": 0
   },
   {
@@ -176,7 +176,7 @@
    "ats": "greenhouse",
    "feed": "nuro",
    "ok": true,
-   "total_jobs": 105,
+   "total_jobs": 107,
    "matched": 0
   },
   {
@@ -184,7 +184,7 @@
    "ats": "lever",
    "feed": "zoox",
    "ok": true,
-   "total_jobs": 245,
+   "total_jobs": 246,
    "matched": 0
   },
   {
@@ -192,8 +192,8 @@
    "ats": "workday",
    "feed": "intel/External",
    "ok": true,
-   "total_jobs": 240,
-   "matched": 2
+   "total_jobs": 237,
+   "matched": 3
   },
   {
    "company": "Northrop Grumman (Chandler)",
@@ -208,7 +208,7 @@
    "ats": "workday",
    "feed": "boeing/EXTERNAL_CAREERS",
    "ok": true,
-   "total_jobs": 200,
+   "total_jobs": 198,
    "matched": 0
   },
   {
@@ -216,7 +216,7 @@
    "ats": "workday",
    "feed": "globalhr/REC_RTX_Ext_Gateway",
    "ok": true,
-   "total_jobs": 138,
+   "total_jobs": 135,
    "matched": 0
   },
   {
@@ -224,17 +224,80 @@
    "ats": "workday",
    "feed": "microchiphr/External",
    "ok": true,
-   "total_jobs": 36,
+   "total_jobs": 38,
    "matched": 1
   },
   {
    "company": "Google Jobs (SerpApi)",
    "ats": "serpapi",
-   "feed": "-",
+   "feed": "junior gameplay programmer @ United States",
    "ok": true,
-   "total_jobs": 0,
-   "matched": 0,
-   "note": "skipped (push run or weekend) to save free searches"
+   "total_jobs": 10,
+   "matched": 8
+  },
+  {
+   "company": "Google Jobs (SerpApi)",
+   "ats": "serpapi",
+   "feed": "technical designer video game @ United States",
+   "ok": true,
+   "total_jobs": 10,
+   "matched": 6
+  },
+  {
+   "company": "Google Jobs (SerpApi)",
+   "ats": "serpapi",
+   "feed": "associate game designer @ United States",
+   "ok": true,
+   "total_jobs": 10,
+   "matched": 4
+  },
+  {
+   "company": "Google Jobs (SerpApi)",
+   "ats": "serpapi",
+   "feed": "junior unreal engine developer @ United States",
+   "ok": true,
+   "total_jobs": 10,
+   "matched": 4
+  },
+  {
+   "company": "Google Jobs (SerpApi)",
+   "ats": "serpapi",
+   "feed": "junior unity developer @ United States",
+   "ok": true,
+   "total_jobs": 3,
+   "matched": 0
+  },
+  {
+   "company": "Google Jobs (SerpApi)",
+   "ats": "serpapi",
+   "feed": "game developer @ Phoenix, Arizona, United States",
+   "ok": true,
+   "total_jobs": 10,
+   "matched": 6
+  },
+  {
+   "company": "Google Jobs (SerpApi)",
+   "ats": "serpapi",
+   "feed": "unreal engine developer @ Phoenix, Arizona, United States",
+   "ok": true,
+   "total_jobs": 10,
+   "matched": 3
+  },
+  {
+   "company": "Google Jobs (SerpApi)",
+   "ats": "serpapi",
+   "feed": "unity developer @ Phoenix, Arizona, United States",
+   "ok": true,
+   "total_jobs": 10,
+   "matched": 2
+  },
+  {
+   "company": "Google Jobs (SerpApi)",
+   "ats": "serpapi",
+   "feed": "software engineer C++ @ Chandler, Arizona, United States",
+   "ok": true,
+   "total_jobs": 10,
+   "matched": 2
   }
  ]
 }
