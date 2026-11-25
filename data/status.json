@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:49:41+00:00",
+ "generated_at": "2026-11-25T20:05:03+00:00",
  "feeds_ok": 37,
  "feeds_failed": 0,
  "feeds": [
@@ -8,7 +8,7 @@
    "ats": "greenhouse",
    "feed": "riotgames",
    "ok": true,
-   "total_jobs": 201,
+   "total_jobs": 198,
    "matched": 0
   },
   {
@@ -16,7 +16,7 @@
    "ats": "greenhouse",
    "feed": "epicgames",
    "ok": true,
-   "total_jobs": 137,
+   "total_jobs": 136,
    "matched": 7
   },
   {
@@ -48,7 +48,7 @@
    "ats": "workday",
    "feed": "sonyglobal/SonyGlobalCareers",
    "ok": true,
-   "total_jobs": 122,
+   "total_jobs": 120,
    "matched": 0
   },
   {
@@ -88,7 +88,7 @@
    "ats": "smartrecruiters",
    "feed": "CDPROJEKTRED",
    "ok": true,
-   "total_jobs": 22,
+   "total_jobs": 21,
    "matched": 0
   },
   {
@@ -144,7 +144,7 @@
    "ats": "greenhouse",
    "feed": "axon",
    "ok": true,
-   "total_jobs": 466,
+   "total_jobs": 459,
    "matched": 1
   },
   {
@@ -176,7 +176,7 @@
    "ats": "greenhouse",
    "feed": "nuro",
    "ok": true,
-   "total_jobs": 107,
+   "total_jobs": 108,
    "matched": 0
   },
   {
@@ -184,7 +184,7 @@
    "ats": "lever",
    "feed": "zoox",
    "ok": true,
-   "total_jobs": 246,
+   "total_jobs": 248,
    "matched": 0
   },
   {
@@ -192,7 +192,7 @@
    "ats": "workday",
    "feed": "intel/External",
    "ok": true,
-   "total_jobs": 237,
+   "total_jobs": 241,
    "matched": 3
   },
   {
@@ -200,7 +200,7 @@
    "ats": "workday",
    "feed": "ngc/Northrop_Grumman_External_Site",
    "ok": true,
-   "total_jobs": 171,
+   "total_jobs": 172,
    "matched": 3
   },
   {
@@ -208,7 +208,7 @@
    "ats": "workday",
    "feed": "boeing/EXTERNAL_CAREERS",
    "ok": true,
-   "total_jobs": 198,
+   "total_jobs": 195,
    "matched": 0
   },
   {
@@ -233,7 +233,7 @@
    "feed": "junior gameplay programmer @ United States",
    "ok": true,
    "total_jobs": 10,
-   "matched": 8
+   "matched": 10
   },
   {
    "company": "Google Jobs (SerpApi)",
@@ -249,23 +249,23 @@
    "feed": "associate game designer @ United States",
    "ok": true,
    "total_jobs": 10,
-   "matched": 4
+   "matched": 2
   },
   {
    "company": "Google Jobs (SerpApi)",
    "ats": "serpapi",
    "feed": "junior unreal engine developer @ United States",
    "ok": true,
-   "total_jobs": 10,
-   "matched": 4
+   "total_jobs": 5,
+   "matched": 3
   },
   {
    "company": "Google Jobs (SerpApi)",
    "ats": "serpapi",
    "feed": "junior unity developer @ United States",
    "ok": true,
-   "total_jobs": 3,
-   "matched": 0
+   "total_jobs": 5,
+   "matched": 3
   },
   {
    "company": "Google Jobs (SerpApi)",
@@ -273,7 +273,7 @@
    "feed": "game developer @ Phoenix, Arizona, United States",
    "ok": true,
    "total_jobs": 10,
-   "matched": 6
+   "matched": 7
   },
   {
    "company": "Google Jobs (SerpApi)",
@@ -289,7 +289,7 @@
    "feed": "unity developer @ Phoenix, Arizona, United States",
    "ok": true,
    "total_jobs": 10,
-   "matched": 2
+   "matched": 8
   },
   {
    "company": "Google Jobs (SerpApi)",
