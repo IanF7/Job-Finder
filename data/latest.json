@@ -1,33 +1,329 @@
 {
- "generated_at": "2026-11-25T20:05:03+00:00",
- "date_arizona": "2026-11-25",
- "count": 60,
- "new_today": 22,
+ "generated_at": "2026-11-26T19:48:31+00:00",
+ "date_arizona": "2026-11-26",
+ "count": 57,
+ "new_today": 13,
  "jobs": [
   {
-   "company": "Side",
+   "company": "Uni Dreams",
    "category": "sim",
    "tier": "remote",
    "commute": "",
    "bucket": "unity-unreal",
    "engine_mentioned": true,
-   "sim_or_xr_mentioned": true,
-   "title": "Systemic Mission Designer",
+   "sim_or_xr_mentioned": false,
+   "title": "Junior Programmer",
    "location": "Anywhere (Remote)",
-   "url": "https://euremotejobs.com/job/systemic-mission-designer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "url": "https://www.workwithindies.com/careers/uni-dreams-junior-programmer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
    "all_apply_links": [
-    "https://euremotejobs.com/job/systemic-mission-designer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.remoterocketship.com/us/company/side-inc/jobs/systemic-mission-designer-united-states-remote/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://updatecv.me/remote-jobs/cmwp7l48w0fs7lw5ioqrg7r0g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.metaintro.com/job/systemic-mission-designer-at-side-a4ded131-7b27-5a8d-8a35-db5c97116102?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    "https://www.workwithindies.com/careers/uni-dreams-junior-programmer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    ],
-   "source": "Google Jobs EU Remote Jobs",
-   "posted": "2026-11-24",
-   "first_seen": "2026-11-25",
+   "source": "Google Jobs Work With Indies",
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-26",
+   "pay": null,
+   "min_years_mentioned": null,
+   "description_excerpt": "We are seeking a Junior Programmer with a strong design sense to join our team working on a 2.5D hand drawn, traditionally animated metroidvania being developed in Unity, with a heavy focus on stylish beat-em up style combat and free flow movement.\u00a0\n\n\nIn this role, you will help implement core gameplay systems including player movement, combat mechanics, enemy behavior, a variety of unique world activities, and platforming physics using C#.\u00a0\n\n\nYou will assist with bug fixing, optimization, and integrating art and animation assets into the game pipeline.\u00a0\n\n\nWe require a developer with foundational knowledge of Unity's 2D/3D toolsets, experience with state machines and physics-based movement, and comfort working with Git in a collaborative environment.",
+   "id": "gj-37103c1dc5c1a828"
+  },
+  {
+   "company": "YO AI Labs",
+   "category": "game",
+   "tier": "remote",
+   "commute": "",
+   "bucket": "game",
+   "engine_mentioned": false,
+   "sim_or_xr_mentioned": true,
+   "title": "Python Game Developer; Panda3D; Remote",
+   "location": "Anywhere (Remote)",
+   "url": "https://www.learn4good.com/jobs/online_remote/software_development/5667383268/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://www.learn4good.com/jobs/online_remote/software_development/5667383268/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs Learn4Good",
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-26",
+   "pay": {
+    "text": "55K\u201396K a year"
+   },
+   "min_years_mentioned": null,
+   "description_excerpt": "Position: Python Game Developer (Panda3D) - Remote Job Description Job Description Job Description: Python Game Developer (Panda3D)Job Type: Contract Location: RemoteAbout the RoleWe are seeking experienced Panda3D Developers to contribute to an AI training project. In this role, you will use Panda3D to perform real-world 3D game development tasks and explain your workflows step by step. Your expertise will help enhance AI systems' understanding of game development, 3D graphics, and interactive simulations.Key Responsibilities Create and modify 3D games and simulations using Panda3D.Work with Python, 3D models, animations, and game logic.Develop and improve game mechanics, player controls, and interactive environments.Debug technical issues and optimize game performance.Complete advanced Panda3D development tasks and document your workflows step by step.Create clear instructions and detailed prompts for game development tasks.Required Skills and Qualifications Strong professional experience with Panda3D.Hands-on experience with Python and C++ programming.Good understanding of 3D graphics, game development, and simulation concepts.Experience using Git Hub for version control and code management.Access to Panda3D and the ability to record your screen while completing tasks.English proficiency of B2 level or higher.Ability to clearly communicate and explain technical workflows.Preferred QualificationsA portfolio showcasing Panda3D or 3D game development projects.A relevant master's degree or PhD.Previous Human Data experience, such as data annotation, RLHF, or AI model evaluation.Experience optimizing 3D games and simulations.",
+   "id": "gj-6a1aeecf3a04482b"
+  },
+  {
+   "company": "The James Group",
+   "category": "game",
+   "tier": "remote",
+   "commute": "",
+   "bucket": "game",
+   "engine_mentioned": true,
+   "sim_or_xr_mentioned": false,
+   "title": "Gameplay Programmer: Create Immersive Games",
+   "location": "Anywhere (Remote)",
+   "url": "https://www.jobleads.com/us/job/gameplay-programmer-create-immersive-games--united-states--e4c2dff349bc4cbe4716182eaebce5105?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://www.jobleads.com/us/job/gameplay-programmer-create-immersive-games--united-states--e4c2dff349bc4cbe4716182eaebce5105?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs JobLeads",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-26",
+   "pay": {
+    "text": "80K\u2013120K a year"
+   },
+   "min_years_mentioned": 2,
+   "description_excerpt": "The James Group is seeking a Game Developer to join our team in the United States. You will design and implement gameplay mechanics, optimize performance across platforms, and collaborate with artists and designers to deliver high-quality experiences.\n\nIdeal candidates bring a strong portfolio, 2\u20135 years of experience, and familiarity with modern game engines such as Unity or Unreal. The role emphasizes continuous learning and adaptive problem solving in a fast-paced studio environment.",
+   "id": "gj-33318a4d8a409b1a"
+  },
+  {
+   "company": "JobLeader",
+   "category": "game",
+   "tier": "remote",
+   "commute": "",
+   "bucket": "game",
+   "engine_mentioned": true,
+   "sim_or_xr_mentioned": false,
+   "title": "Remote Game Developer: Design, Code & Optimize",
+   "location": "Anywhere (Remote)",
+   "url": "https://www.jobleads.com/us/job/remote-game-developer-design-code-optimize--las-vegas--ef9a71f5cd42d04a036cc345d3ed0af44?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://www.jobleads.com/us/job/remote-game-developer-design-code-optimize--las-vegas--ef9a71f5cd42d04a036cc345d3ed0af44?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs JobLeads",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-26",
+   "pay": null,
+   "min_years_mentioned": 2,
+   "description_excerpt": "JobLeader in Las Vegas, Egypt is seeking a talented Game Developer to design, implement, and optimize compelling gameplay across titles. This full-time role requires collaborative work with designers and artists to craft immersive experiences while maintaining clean, well-documented code.\n\nThe position supports remote work options where feasible. The candidate should have 2+ years of experience and be proficient in C++, C#, Java, or Unity, with a strong grasp of game design principles and the\n\nQualifications\n\n2+ years of experience as a Game Developer.Proficient in programming languages such as C++, C#, Java, or Unity.Strong understanding of game design principles and mechanics.Ability to work independently as well as in a team environment.Responsibilities\n\nDesign and implement gameplay mechanics, features, and systems for our games.Collaborate with artists and designers to create engaging and immersive game experiences.Write efficient, well-documented code in various programming languages.Troubleshoot and debug technical issues in the game development process.Stay updated on industry trends and advancements in game development technology.Continuously optimize game performance to ensure a smooth gaming experience.",
+   "id": "gj-6d03cead8e1b8a73"
+  },
+  {
+   "company": "BairesDev",
+   "category": "game",
+   "tier": "remote",
+   "commute": "",
+   "bucket": "game",
+   "engine_mentioned": true,
+   "sim_or_xr_mentioned": false,
+   "title": "Remote Unreal Engine Gameplay Engineer | Flexible Hours",
+   "location": "Anywhere (Remote)",
+   "url": "https://www.jobleads.com/us/job/remote-unreal-engine-gameplay-engineer-flexible-hours--united-states--eca2df2ed6ea8dc7cfb72076cebb0c331?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://www.jobleads.com/us/job/remote-unreal-engine-gameplay-engineer-flexible-hours--united-states--eca2df2ed6ea8dc7cfb72076cebb0c331?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs JobLeads",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-26",
+   "pay": {
+    "text": "MX$1.67M\u2013MX$2.78M a year"
+   },
+   "min_years_mentioned": 4,
+   "description_excerpt": "BairesDev is seeking a Software Engineer (Unreal Engine) to design, implement, and optimize gameplay and real-time rendering across missions. You will work remotely on high-impact projects using C++ and Blueprints, building scalable gameplay systems and engine-level plugins, while collaborating with artists and designers to deliver immersive experiences.\n\n4+ years in game dev and strong English required. We offer 100% remote work, competitive USD compensation, and a supportive global team focused",
+   "id": "gj-67cd3095bfdef14c"
+  },
+  {
+   "company": "DataDriven Corp",
+   "category": "sim",
+   "tier": "az",
+   "commute": "near",
+   "bucket": "unity-unreal",
+   "engine_mentioned": true,
+   "sim_or_xr_mentioned": false,
+   "title": "Unity Developer: Build End-to-End Features",
+   "location": "Mesa, AZ",
+   "url": "https://us.trabajo.org/job-2283-e07c5985c627e5209fb986ae6540eb15?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://us.trabajo.org/job-2283-e07c5985c627e5209fb986ae6540eb15?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs Trabajo.org",
+   "posted": "2026-11-21",
+   "first_seen": "2026-11-26",
+   "pay": {
+    "min": 100000,
+    "max": 140000,
+    "unit": "year"
+   },
+   "min_years_mentioned": null,
+   "description_excerpt": "DataDriven Corp in Mesa, AZ is hiring a Unity Developer who has shipped Ruby on Rails to production, learned from the experience, and will own RabbitMQ from day one. Earn $100,000 - $140,000 as a Unity Developer and join a collaborative team building trusted technology.\n\nYou will collaborate with product and design teams to ship features end to end, apply RabbitMQ and Next.js to solve engineering challenges, decode a legacy Kotlin service, and pair-program on Google Cloud edge cases across Mesa.\nJ-18808-Ljbffr",
+   "id": "gj-7898828cd3ae73a4"
+  },
+  {
+   "company": "Activision Blizzard, Inc.",
+   "category": "game",
+   "tier": "remote",
+   "commute": "",
+   "bucket": "game",
+   "engine_mentioned": false,
+   "sim_or_xr_mentioned": false,
+   "title": "Associate Game Producer, Live Operations (Contract) - Overwatch | Irvine, CA",
+   "location": "Anywhere (Remote)",
+   "url": "https://www.tealhq.com/job/associate-game-producer_7ea1a97245ae87e9da82556c54706607a627f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://www.tealhq.com/job/associate-game-producer_7ea1a97245ae87e9da82556c54706607a627f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs Teal",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-26",
+   "pay": {
+    "text": "24\u201345 an hour"
+   },
+   "min_years_mentioned": 2,
+   "description_excerpt": "About the position\n\nThe Overwatch team is seeking an Associate Game Producer focused on Live Operations to help deliver live experiences to players around the world. The role partners with multidisciplinary teams to plan, coordinate, and deliver live game updates, seasonal content, events, gameplay improvements, and operational initiatives. The producer turns goals into actionable plans, builds alignment across teams, manages dependencies and risks, and helps ensure high-quality releases reach players on time.\\n\\nThe ideal candidate is organized, an exceptional communicator, and comfortable in a fast-paced live-service environment. They bring clarity to complex initiatives, facilitate collaboration across disciplines, and help teams navigate challenges while maintaining quality and delivery commitments. Passion for games, player experience, and the Overwatch universe is valued. The position is based at the Irvine studio and follows a hybrid work week with work-from-home and on-site days.\n\nResponsibilities\n\nDrive production planning and execution for live game updates, seasonal releases, events, gameplay features, and operational initiatives.Partner with Design, Engineering, Art, QA, Publishing, Release Management, Marketing, and Operations teams to deliver player-facing content and features.Build and maintain project schedules, milestone plans, release roadmaps, dependency tracking, and status reports.Coordinate release readiness and align teams on priorities, risks, milestones, and quality expectations.Facilitate communication among development teams, leadership, and global stakeholders to maintain transparency and alignment.Identify production risks, dependencies, and blockers early, and work with teams on mitigation plans.Support live issue triage and service operations by coordinating discussions, driving follow-up actions, and helping teams resolve issues.Coordinate security audit requirements, release approvals, and operational processes associated with content releases.Partner with Content Operations and related teams to support deployments of marketing, configuration, and live game data.Facilitate production ceremonies, including planning sessions, release reviews, retrospectives, and stakeholder updates.Evaluate workflows, processes, and team operating rhythms to improve delivery predictability, efficiency, and quality.Help teams adapt to changing priorities while maintaining focus on player experiences.Requirements\n\nAt least 2 years of production, project management, program management, or related experience in game development or software development.Experience working with multidisciplinary teams, including Engineering, Design, Art, QA, Publishing, Live Operations, or Release Management.Experience supporting a live-service game, online product, or regularly updated software experience.Ability to create and maintain schedules, milestones, dependency tracking, risk assessments, and project documentation.Strong understanding of game development pipelines and release processes.Ability to proactively identify issues, facilitate alignment, and drive projects to completion.Strong communication, organizational, and stakeholder management skills.Experience facilitating planning, prioritization, status reviews, and cross-functional collaboration.Ability to influence outcomes and drive alignment without direct authority.Comfort operating amid evolving priorities, ambiguity, and time-sensitive operational needs.Strong problem-solving sk",
+   "id": "gj-22cc39973ba9cb04"
+  },
+  {
+   "company": "Xperteez Technology",
+   "category": "sim",
+   "tier": "remote",
+   "commute": "",
+   "bucket": "unity-unreal",
+   "engine_mentioned": true,
+   "sim_or_xr_mentioned": false,
+   "title": "Unreal Engine Developer, Remote - Contract",
+   "location": "Anywhere (Remote)",
+   "url": "https://www.tealhq.com/job/unreal-engine-developer_7ea1a7905d74163441eeb96bbf7e0e8cf1ec7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://www.tealhq.com/job/unreal-engine-developer_7ea1a7905d74163441eeb96bbf7e0e8cf1ec7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://www.jobleads.com/us/job/senior-combat-designer-remote-unreal-engine-expert--los-angeles--e8cbfe5959ace18905f85fcc08cd9c5c1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://www.adzuna.com/details/5972491915?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs Teal",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-26",
+   "pay": {
+    "text": "50\u2013100 an hour"
+   },
+   "min_years_mentioned": null,
+   "description_excerpt": "About the position\n\nThe Unreal Engine Developer applies hands-on game development and C++ programming experience to real-world game development scenarios and technical challenges, helping improve how AI models understand and perform technical game development tasks. The role involves developing, reviewing, debugging, and optimizing C++ code in Unreal Engine; working with gameplay mechanics, Blueprints, and interactive systems; and evaluating technical solutions, identifying errors, and providing structured feedback to support AI training. The developer also documents technical decisions and clearly explains game development concepts.\\n\\nApplicants must provide a portfolio, GitHub repository, or links to previous Unreal Engine projects demonstrating relevant development experience. The position is remote and contract-based.\n\nResponsibilities\n\nApply Unreal Engine and C++ expertise to game development scenarios and technical challenges.Develop, review, debug, and optimize C++ code within Unreal Engine.Work with gameplay mechanics, Blueprints, and interactive systems.Evaluate technical solutions, identify errors, and provide structured feedback to support AI training.Document technical decisions and explain game development concepts clearly.Requirements\n\nStrong hands-on experience developing games or interactive applications using Unreal Engine.Proficiency in C++ programming within Unreal Engine.Experience developing, debugging, and optimizing gameplay systems and mechanics.Solid understanding of Unreal Engine workflows, Blueprints, and game development principles.Provide a portfolio, GitHub repository, or links to previous Unreal Engine projects demonstrating relevant development experience.Strong problem-solving and technical communication skills.Nice-to-haves\n\nExperience developing games or interactive experiences in Fortnite.Familiarity with Unreal Editor for Fortnite (UEFN), Fortnite Creative, or Verse programming.Experience working on shipped games or complex Unreal Engine projects.Experience documenting technical workflows or evaluating code quality.",
+   "id": "gj-3a417ee98647d69d"
+  },
+  {
+   "company": "Riot Games, Inc.",
+   "category": "game",
+   "tier": "remote",
+   "commute": "",
+   "bucket": "game",
+   "engine_mentioned": true,
+   "sim_or_xr_mentioned": false,
+   "title": "Technical Game Design Intern \u2014 Remote & Paid",
+   "location": "Anywhere (Remote)",
+   "url": "https://talents.vaia.com/companies/dominium/architecture-intern-multifamily-design-modeling-191267251/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://jooble.org/jdp/584120462345763525?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://talents.vaia.com/companies/dominium/architecture-intern-multifamily-design-modeling-191267251/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://us.jobrapido.com/jobpreview/8729003125857320960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://us.trabajo.org/job-5374-6204534ba001da96c19ce6b4e2949f56?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs Jooble",
+   "posted": "2026-11-13",
+   "first_seen": "2026-11-26",
+   "pay": null,
+   "min_years_mentioned": null,
+   "description_excerpt": "Riot Games, Inc. is seeking a Technical Game Design Intern based in the United States. You will build tools and systems that empower game designers while owning key gameplay designs for League of Legends and TFT. This remote internship spans 12 weeks.\nThe role requires studying CS/Engineering, knowledge of data structures/algorithms, and C++ with Unreal Blueprints. Collaboration with designers, engineers, and artists is essential to reach player experience goals.\n\n#J-18808-Ljbffr  Riot Games, Inc.",
+   "id": "gj-6889fe61d3e11622"
+  },
+  {
+   "company": "Ghostpunch Games",
+   "category": "game",
+   "tier": "remote",
+   "commute": "",
+   "bucket": "game",
+   "engine_mentioned": true,
+   "sim_or_xr_mentioned": true,
+   "title": "Technical Designer - Unity (Contract/Remote)",
+   "location": "Anywhere (Remote)",
+   "url": "https://www.jobleads.com/us/job/hmi-schematics-designer-for-unity-scada--united-states--eccc3c4dfa03c3e3d9c8ff4056aa0076f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://www.ziprecruiter.com/c/Ghostpunch-Games/Job/Technical-Designer-Unity-(Contract-Remote)/-in-Fort-Lauderdale,FL?jid=33bff61a4221a8ba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://www.jobleads.com/us/job/hmi-schematics-designer-for-unity-scada--united-states--eccc3c4dfa03c3e3d9c8ff4056aa0076f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://firstremote.liveblog365.com/remote-jobs/technical-designer-unity-contractremote-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://www.learn4good.com/jobs/online_remote/entertainment/5595638293/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs ZipRecruiter",
+   "posted": "",
+   "first_seen": "2026-11-26",
    "pay": null,
    "min_years_mentioned": 3,
-   "description_excerpt": "Description About Side Side is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in 2009 and drawing on 30+ years\u2019 experience from our parent company in Japan, Side has since grown to become a global force with 15+ studios in over a dozen countries across North America, Europe, South America, and Asia. Our industry-leading services include game development, art production, audio production, quality assurance, localization, localization QA, player support, community management, and datasets. We are seeking a Systemic Mission Designer to help create emergent, replayable gameplay experiences for a highly anticipated narrative-driven first-person action game. In this role, you will be embedded directly with the development team, partnering across design disciplines to ensure systemic missions are engaging, stable, and aligned with the creative vision. You will serve as a key owner of mission quality, driving implementation, tuning, testing, and iteration while supporting a deeply immersive player experience. 1099 Contract Duration: Through April 2027 (anticipated) Location: Remote North America preferred Availability: Must be available for regular collaboration and meetings during Eastern Time business hours. Applications accepted until: November 29, 2006 Requirements Requirements What you will do: Systemic Mission Design & Ownership Own and coordinate the holistic player experience for systemic missions by partnering closely with level design, combat design, systems design, and narrative design teams. Design, implement, and iterate on mission content that supports emergent gameplay and player-driven problem solving. Ensure mission mechanics, objectives, encounters, and narrative elements work cohesively to create compelling gameplay experiences. Balance mission pacing, challenge, and reward structures based on playtesting feedback and team collaboration. Unreal Engine Implementation & Tuning Implement systemic mission content directly in Unreal Engine 4 using Blueprints and existing gameplay systems. Tune mission variables, gameplay systems, and supporting content to improve player experience and mission reliability. Work within established development pipelines to rapidly prototype, iterate, and refine gameplay features. Collaborate with designers and technical partners to identify scalable solutions that support ongoing content development. Testing, Debugging & Optimization Serve as the first line of defense for systemic mission issues, including testing, troubleshooting, and bug fixing. Monitor mission analytics, player behavior metrics, and gameplay data to identify systemic issues and opportunities for optimization. Investigate and resolve mission stability, progression, and gameplay flow issues independently. Validate changes through testing and data analysis to ensure a high-quality player experience. Cross-Disciplinary Collaboration Work embedded within the development team and collaborate closely with distributed partners across multiple disciplines. Communicate design goals, implementation details, and gameplay impacts clearly to stakeholders. Partner with production and design leadership to prioritize work, address risks, and support project milestones. Contribute to a collaborative development environment focused on delivering exceptional narrative-driven gameplay. What we are looking for: 3+ years of experienc",
-   "id": "gj-e2f3f6240c7383ec"
+   "description_excerpt": "The Technical Designer is responsible to understand the product vision as defined by the Lead Designer, and help to realize that vision by creating and implementing specific game features.\n\n\n\n\n\n\nESSENTIAL DUTIES AND RESPONSIBILITIES:\n\n\n\n Collaborate with Design, Engineering, Art, Animation, QA, and Audio team members to create functional, fun and visually compelling worlds that achieve unprecedented and immersive gaming experiences.\n Work closely with members of design and engineering to support the needs of gameplay, for both your fellow designers and other disciplines.\n Take ownership and responsibility for gameplay actor creation, level scripting, checkpoint and multiplayer support, scripting and tuning, creating debugging and testing tools, and contributing to overall game balance.\n Integrate polished and satisfying feedback into gameplay systems through art, VFX, and audio hookups, collaborating successfully with these departments to integrate their work.\n Contribute innovative and original ideas on all aspects of game production and development, providing constructive insight and feedback when needed.\n\n\n\n\n\n\n\n\n\nQUALIFICATIONS:\n\n\n\n 3+ years of professional experience as a Technical Designer or a related role.\n Strong familiarity with code and scripting languages, most notably C#\n Unity3D experience\n VR/AR/MR design experience\n Deep understanding of game design principles\n Very comfortable working in game editors and understanding engine/game constraints and opportunities.\n Effective communicator and collaborator with engineers and developers from other disciplines, along with willingness to lead focused multidisciplinary efforts.\n A natural curiosity for all aspects of game development and a willingness to work on a wide variety of game systems.\n A strong passion for video game development.\n Strong, updated, and current portfolio with samples of your work.\n A high standard of quality, not only for your own work but for reviewing others.\n\n\n\n\n\n\n\n\n\nEDUCATION AND EXPERIENCE:\n\n\n\n Typically requires at least 3 years of game design experience in a professional capacity. Student projects will not count toward years of experience..\n Must have design credits on at least 1 published game\n Must have experience working with other product development disciplines (Art, Programming, etc.) in a team-oriented, collaborative environment.\n\n\n\n\n\n\n\n\n\nWhy Ghostpunch Games?\n\n\n\n\n\n\nWork Culture\n\n\n\n \n  Remote, Hybrid, and On-site policy.\n\n\n \n  Collaborative, open-minded, creative environment\n\n\n \n  Teamwork makes the dream work (as true as it is corny!)\n\n\n\n\n\n\n\nProject Scope\n\n\n\n \n  Multiple projects available to work on\n\n\n \n  AAA quality, Genre-spanning, PC/Console/VR\n\n\n\n\n\n\n\nPartnerships/History include\n\n\n\n \n  Sony 2K, Activision, Warner Brothers, Gearbox, and more!\n\n\n\n\n\n\n\nTop/Recent projects include \n\n\n\n \n  Outriders, Risk of Rain 2, Borderlands 3, Mortal Kombat 11, Battleborn, Civilization VI, VainGlory, and more!\n\n\n \n  Learn more about our partnerships and projects here! https://www.ghostpunch.com/\n\n\n\n\n \n  \n   Benefits\n  \n  \n   \n    \n     401K with company matching\n    \n   \n    \n     Health, dental, and vision insurance\n    \n   \n    \n     Flexible spending account\n    \n   \n    \n     Paid Holidays\n    \n   \n    \n     PTO accrual\n    \n  \n \n\n\n\n\n\n\n\n\n\nGhostpunch Games is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expressio",
+   "id": "gj-f88a5beb50f9406f"
+  },
+  {
+   "company": "High Voltage Software",
+   "category": "game",
+   "tier": "remote",
+   "commute": "",
+   "bucket": "game",
+   "engine_mentioned": true,
+   "sim_or_xr_mentioned": false,
+   "title": "Technical Game Designer (Creator Tools)",
+   "location": "Anywhere (Remote)",
+   "url": "https://jobs.blog/job/technical-game-designer-creator-tools/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://jobs.blog/job/technical-game-designer-creator-tools/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs Jobs.blog",
+   "posted": "",
+   "first_seen": "2026-11-26",
+   "pay": {
+    "min": 30000,
+    "max": 35000,
+    "unit": "year"
+   },
+   "min_years_mentioned": 1,
+   "description_excerpt": "High Voltage is looking for a Technical Game Designer (Creator Tools) to join our growing team. In this role, you\u2019ll use your expertise developing creative tools for in-house development and publicly released toolsets for Creators. You will work with engineers, artists, and other designers to enhance the quality of our projects and deliver fresh experiences that empower creators and captivate players. The ideal candidate would have expertise in user-centered design, an understanding of effective game systems, and creating powerful tools for other disciplines.\n\n\n\nHere are some of the exciting responsibilities you\u2019ll have:\n\n\n\nWork hands-on to implement tools in-engine or externally as part of a production pipeline to empower other developers.\nBreak a feature into clear scoped tasks and identifying risks and dependencies early\nArchitect modular building blocks, systems, and toolsets that empower less technical creators to build high-quality experiences.\u00a0\nEnsure product stability and scalability by establishing performance budgets and constraints for creator-made systems\nWriting technical design documentation for users \u2013 both internally and publicly\nCollaborate closely with a multidisciplinary team of designers, artists, engineers, and producers to champion workflow improvements and giving quality feedback to your peers\n\nJoin High Voltage, and let us supercharge your future!\n\n\nRequirements\n\n\n\nMinimum one year of Technical Tools Design experience in the game industry.\n\n\n1-2 years of experience with Unreal Engine 5 in a tools design or technical design capacity on production quality professional, academic, or personal projects.\nSelf-motivated and proactive in identifying design and technical issues, with a willingness to seek assistance when necessary.\nStrong knowledge of developing toolsets for less technical users with a focus on usability and accessibility\nExpert with implementation in the Unreal Engine including: Blueprint Scripting and plugins\nFamiliar with coding principals including data types, logical operators, functions, and inheritance\nTechnically skilled and capable of working independently in a small team environment as part of a larger team.\nExcellent communication, interpersonal, and organizational skills.\nAbility to communicate effectively and collaborate with others.\nPassion for video games and user-created experiences (Roblox, Fortnite, etc.).\nEnglish proficiency: B2 or higher required\n\nBonus points:\n\n\n\nExperience working on multiplayer games and Live Service titles\nExperience with procedural or modular content systems\nFoundational game systems design knowledge to put yourself in the mind of the user and anticipate high-value tools.\nShipped game credits and a personal portfolio for review\nFamiliarity with UI/UX and developing interfaces for tools\nAdditional Unreal Engine experience including: C++, Verse, UMG, World Partition, Gameplay Ability System (GAS)\nAdditional software proficiencies with tools such as: UEFN, Roblox, Figma, and Miro\nExperience with other game engines such as Unity, Godot, and proprietary game engines\n\nAll applicants are required to submit their CVs in English as part of the application process.\n\n\nBenefits\n\n\nAs a member of our team, you\u2019ll enjoy the following:\n\n\n\n\nOpportunity to work on some of the biggest AAA games in the industry\nGreat work-life balance\nCollaborative and casual work environment\nCompetitive salary\nIf working on some of the biggest and best titles with some of the coolest people within t",
+   "id": "gj-617df12b61fe9643"
+  },
+  {
+   "company": "Nintendo",
+   "category": "sim",
+   "tier": "remote",
+   "commute": "",
+   "bucket": "unity-unreal",
+   "engine_mentioned": true,
+   "sim_or_xr_mentioned": false,
+   "title": "Level Designer",
+   "location": "Anywhere (Remote)",
+   "url": "https://jobvfx.com/jobs/level-designer-redmond-washington-united-states-october-1-2026-nintendo?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://jobvfx.com/jobs/level-designer-redmond-washington-united-states-october-1-2026-nintendo?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs JobVFX",
+   "posted": "",
+   "first_seen": "2026-11-26",
+   "pay": null,
+   "min_years_mentioned": 0,
+   "description_excerpt": "Company Overview\nNintendo Software Technology Corporation, based in Redmond, Washington, is a wholly owned subsidiary of Nintendo Co., Ltd., headquartered in Kyoto, Japan. Nintendo Software Technology's mission is to design, develop and deliver the very best video games through research, state-of-the-art equipment, and continuous operational review. Nintendo is an equal opportunity employer offering a welcoming and inclusive environment rooted in kindness, empathy, and respect.\n\n\n\nDescription of Duties\nNintendo Software Technology is a tight-knit game development studio located in Redmond, WA, focused on creating games designed to surprise and delight customers. As a Level Designer contributing to game design features and gameplay, duties include:\n\n\n\nImplements design specifications into playable prototypes using various software tools.\nAble to quickly revise implementation based on changes required to continue iterating on design concepts.\nAssists in designing prototypes to iterate concepts into a more complete idea.\nAssists and maintains game play mechanics within a game.\nCreates areas of a user-interface design and maintains assigned product localization with the direction of senior designers and above.\nCommunicates ideas with various product development personnel to solicit feedback and ensure support during product development.\nWithin a team, provides input into defining creative vision and technical specifications for assigned project.\nWrites and maintains assigned design documentation.\nWorks closely with senior designers and above to attain constructive feedback and direction.\nApplies professional expertise to review, analyze and test products under development as a contributing member of a production team to ensure delivery of Nintendo\u2019s high standard of quality and timeliness.\n\n\nSummary of Requirements\nMandatory Qualifications\n\nExperience: 0-2 years of level design for video games or relevant experience.\nKnowledge: Understanding of interactive software methodologies, production pipelines, and Nintendo quality standards.\nTechnical Skills: Proven proficiency with commercial 2D/3D game editor (e.g., Unity, Unreal, etc.).\nSoftware: Basic PC skills (Word, Excel, PowerPoint).\nEducation: Undergraduate degree in Game Design, Computer Science, or equivalent.\nEligibility: Applicants must be legally eligible to work in the United States. Visa sponsorship is not available for this role.\n\nPreferred Qualifications & Plus Skills\n\nStudies in music, art, films, television / broadcasting, and multimedia.\n\n\nWorking Conditions & Culture\n\nLocation: Hybrid position in Redmond, WA. Requires regular onsite work following the schedule and guidelines for the division. Not open to fully remote status.\nCulture: Seeks people who support one another, stay curious, bring thoughtful creativity, communicate openly, ask questions, take initiative, and bring care to their craft.\n\n\nCompensation & Benefits\n\nPay Range: $34\u2014$51 USD per hour.\nEmployment Type: Contract position.\nBenefits: Eligible for benefits through the employing agency, including medical insurance, employee assistance program, and paid sick leave. All benefits are subject to elections, eligibility requirements, plan and program terms, and will be confirmed at the time of offer by the employing agency.",
+   "id": "gj-0cce7a413db34c52"
+  },
+  {
+   "company": "Clickhouse",
+   "category": "sim",
+   "tier": "remote",
+   "commute": "",
+   "bucket": "software",
+   "engine_mentioned": false,
+   "sim_or_xr_mentioned": true,
+   "title": "Core Software Engineer (C++) - Remote",
+   "location": "Anywhere (Remote)",
+   "url": "https://haystackapp.io/jobs/e2bab7ab-c6c2-4b28-a549-9d996a9b2ff0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://www.indeed.com/viewjob?jk=da0ea80e18c7b6ec&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://haystackapp.io/jobs/e2bab7ab-c6c2-4b28-a549-9d996a9b2ff0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://www.indexventures.com/startup-jobs/xata/core-software-engineer-c-remote-1/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://www.glassdoor.com/job-listing/jv?jl=1010262469558&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://www.talent.com/view?id=640813966229570342&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://www.jobfinder-ai.com/jobs/clickhouse-core-software-engineer-c-remote-rwmcj31bgw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs Indeed",
+   "posted": "",
+   "first_seen": "2026-11-26",
+   "pay": {
+    "min": 195000,
+    "max": 260000,
+    "unit": "year"
+   },
+   "min_years_mentioned": null,
+   "description_excerpt": "Location\n  United States\n\n\n \n \n  Employment Type\n  Full time\n\n\n \n \n  Location Type\n  Remote\n\n\n \n \n  Department\n  Engineering\n\n\n \n \n  Compensation\n  \n   US Premium (SF, NYC, Sea, LA)$215K \u2013 $260K \u2022 Offers Equity\n   All other US locations$195K \u2013 $245K \u2022 Offers Equity\n  \n  \n   For roles based in the United States, the typical starting salary range for this position is listed on the job posting. In certain locations, such as the San Francisco Bay Area, Seattle, and the New York City Metro Area, a premium market range may apply, as listed.\n\n\n   These salary ranges reflect what we reasonably and in good faith believe to be the minimum and maximum pay for this role at the time of posting. The actual compensation may be higher or lower than the amounts listed, and the ranges may be subject to future adjustments.\n\n\n   An individual\u2019s placement within the range will depend on various factors, including (but not limited to) education, qualifications, certifications, experience, skills, location, performance, and the needs of the business or organization.\n\n\n   If you have any questions or comments about compensation as a candidate, please get in touch with us at paytransparency [at] clickhouse [dot] com.\n\n\n  \n \n\n\n\n\n \n  NOTE: this role can be anywhere in the United States or Canada as the position is not office-based.\n\n\n  With over 49,000 stars on GitHub, ClickHouse is the fastest and most resource efficient open-source database for real-time apps and analytics. Our Core Engineering teams own the heart of our ClickHouse Open Source project. We are looking for exceptional C++ engineers to join our remote-first, global team and continue to scale and grow both our open source and ClickHouse Cloud offerings. More specifically, we are seeking engineers who love scaling and optimizing the performance of highly distributed systems.\n\n\n  What will you do?\n\n\n  \n   \n    As part of the ClickHouse Core teams, you will contribute to, analyze, and optimize the performance of the core ClickHouse database. The team works on many different topics such as query optimization, distributed query optimization, relational operators (e.g. aggregation and joins), caching, and low-level optimizations like SIMD instructions.\n\n\n   \n    You will ensure that the database performance does not deteriorate over time by extending existing and adding new performance tests, based on real-world or synthetic datasets.\n\n\n   \n    You will serve as a resource for the Support Engineering team, helping to debug the most advanced performance issues encountered by our customers. This includes an on call rotation as well as participation in our external community support channels.\n\n\n   \n    As the core ClickHouse database continues to move at a fast pace, you will closely collaborate with our other teams to assess the impact of new features on performance and reliability\n\n\n   \n    You will work with our open-source community. This will include resolving issues, reviewing and finishing PRs, answering questions from mail, chats, google groups, external Slack channels, etc.\n\n\n  \n  About you:\n\n\n  \n   \n    You bring along solid professional software development experience in C++. This includes experience with Unix/Linux Systems.\n\n\n   \n    You have strong knowledge in database internals and design.\n\n\n   \n    You have experience in performance engineering, ideally in a database but other areas like high-frequency trading, simulation, real time data processing etc. are also okay.\n\n\n   \n    You communica",
+   "id": "gj-dfd61afb26eb57c4"
   },
   {
    "company": "Asu",
@@ -52,26 +348,30 @@
    "id": "gj-27822120d7e26f8b"
   },
   {
-   "company": "Honeywell",
+   "company": "Loans for Australia",
    "category": "sim",
    "tier": "az",
    "commute": "near",
    "bucket": "unity-unreal",
    "engine_mentioned": true,
    "sim_or_xr_mentioned": false,
-   "title": "Unity Developer Intern: Own the Platform",
-   "location": "Gilbert, AZ",
-   "url": "https://us.trabajo.org/job-2283-5e5c34f82bd8a6ff0c42ddfad404a66b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "title": "Unity Developer: Build End-to-End Features & RabbitMQ",
+   "location": "Mesa, AZ",
+   "url": "https://www.learn4good.com/jobs/mesa/arizona/software_development/5662569730/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
    "all_apply_links": [
-    "https://us.trabajo.org/job-2283-5e5c34f82bd8a6ff0c42ddfad404a66b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    "https://www.learn4good.com/jobs/mesa/arizona/software_development/5662569730/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    ],
-   "source": "Google Jobs Trabajo.org",
-   "posted": "2026-11-21",
+   "source": "Google Jobs Learn4Good",
+   "posted": "2026-11-22",
    "first_seen": "2026-11-25",
-   "pay": null,
+   "pay": {
+    "min": 100000,
+    "max": 140000,
+    "unit": "year"
+   },
    "min_years_mentioned": null,
-   "description_excerpt": "Honeywell is expanding its Gilbert, AZ technology platform and offers an internship with hands-on ownership from prototype to production. You\u2019ll help modernize the stack, guide the JavaScript migration away from legacy patterns, and deliver RESTful APIs powering core Honeywell products.\n\nYou\u2019ll join a collaborative team with mentorship, commitment to growth, and a fast track toward more senior technology roles as you gain experience.\nJ-18808-Ljbffr",
-   "id": "gj-8506227f3a2e9ae7"
+   "description_excerpt": "Data Driven Corp in Mesa, AZ is hiring a Unity Developer who has shipped Ruby on Rails to production, learned from the experience, and will own RabbitMQ from day one. Earn $100,000 - $140,000 as a Unity Developer and join a collaborative team building trusted technology.You will collaborate with product and design teams to ship features end to end, apply RabbitMQ and Next.js to solve engineering challenges, decode a legacy Kotlin service, and pair-program on Google Cloud edge cases across Mesa.As a Unity Developer: Build End-to-End Features & RabbitMQ, you will play an important part at Loans for Australia in Mesa, AZ, United States.Please review the full job details above before applying.If your experience matches this role, we encourage you to apply.All applications are reviewed carefully by our team.",
+   "id": "gj-4ff28f7c97faa43f"
   },
   {
    "company": "Content Partners Inc",
@@ -86,11 +386,11 @@
    "url": "https://us.trabajo.org/job-2283-23295a7a8394a76e5a34b4814076fdba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
    "all_apply_links": [
     "https://us.trabajo.org/job-2283-23295a7a8394a76e5a34b4814076fdba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://pilihehah.wtf/brands/qZVE4ZAJ?ampi&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://afecejama.xyz/templates/K1mUWmby?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://openfet.live/staff/NT0RrvXR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://okudylit.live/projects/5kaEphHs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://thefet.live/settings/PO16AVRW?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://openfip.live/content/zB41rQ9o?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    "https://jytapyto.live/pricing/QKMIia8y?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://okudylit.live/projects/5kaEphHs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    ],
    "source": "Google Jobs Trabajo.org",
    "posted": "2026-11-21",
@@ -131,105 +431,6 @@
    "id": "gj-531d360fd9bd4a82"
   },
   {
-   "company": "Chai Time",
-   "category": "game",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "game",
-   "engine_mentioned": true,
-   "sim_or_xr_mentioned": false,
-   "title": "Gameplay Programming Intern",
-   "location": "Anywhere (Remote)",
-   "url": "https://www.jobleads.com/us/job/gameplay-programming-intern--united-states--ed9454e4e11aa3a2707299014422b221d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://www.jobleads.com/us/job/gameplay-programming-intern--united-states--ed9454e4e11aa3a2707299014422b221d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://us.trabajo.org/job-2283-71a4f48d5009d22b7cdab5328228c61b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs JobLeads",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-25",
-   "pay": {
-    "text": "25K\u201336K a year"
-   },
-   "min_years_mentioned": null,
-   "description_excerpt": "Chai Time Games is seeking a Gameplay Programming Intern to help build Project Trinity in Unity. You will work closely with the founders to implement top-down action combat, class-specific input mechanics, and grid-based progression through modular C# code that plays well with FishNet.\n\nYou will contribute to enemy/boss behaviours, co-op puzzle encounters, and gear/socket systems while learning in a fast-moving, collaborative environment.\n\nQualifications\n\nStrong projects or coursework in Unity (C#) building real-time gameplay, combat, character controllers, or AI systems.Solid 3D vector math, state-machine design, input buffering/timing feel, and clean data-driven architecture (ScriptableObjects, events, and modular components).Comfort working in a small, fast-moving team directly alongside the founders, profiling your code, and iterating on game feel.Bonus: Experience with FishNet (or Mirror/Netcode for GameObjects), Shader Graph/HLSL, or custom Unity Editor tooling.Responsibilities\n\nBuild and iterate on responsive player movement, branching light/heavy weapon combo graphs, Class and Super Abilities, and class-specific input mechanics.Implement enemy AI behaviours, multi-phase boss encounters, and multiplayer-compatible status effects and buffs.Build interactive world and puzzle systems - enemy-dropped offerings, shrine buffs, cooperative ropeset puzzles, and buff-swapping conduits across split rooms.Help build our grid-based character progression system, directional and conditional socketables, weapon socket grids, and gear/trinket modifiers.Write modular, maintainable C# in Unity that plays cleanly with FishNet co-op architecture and designer-facing data/prefabs.",
-   "id": "gj-5b31c8b71d221bce"
-  },
-  {
-   "company": "YO AI Labs",
-   "category": "game",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "game",
-   "engine_mentioned": false,
-   "sim_or_xr_mentioned": false,
-   "title": "Remote 2D Game Developer - Defold/Lua - Contract",
-   "location": "Anywhere (Remote)",
-   "url": "https://www.jobleads.com/us/job/remote-2d-game-developer-defold-lua-contract--united-states--ee930043ea72aecabef9ce101bba1944b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://www.jobleads.com/us/job/remote-2d-game-developer-defold-lua-contract--united-states--ee930043ea72aecabef9ce101bba1944b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs JobLeads",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-25",
-   "pay": {
-    "text": "62K\u201390K a year"
-   },
-   "min_years_mentioned": null,
-   "description_excerpt": "YO AI Labs is seeking an experienced 2D Game Developer specializing in the Defold engine. This remote contractor role focuses on real-world game development tasks using Defold, with Lua scripting, game objects, components, and animation handling.\n\nYou will document workflows and craft detailed prompts for development tasks. Ideal candidates will have strong Defold experience, ability to explain technical processes clearly, and English proficiency at B2 or higher.",
-   "id": "gj-ddc2dc35efc589c7"
-  },
-  {
-   "company": "BDO",
-   "category": "game",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "game",
-   "engine_mentioned": false,
-   "sim_or_xr_mentioned": false,
-   "title": "Remote Junior Game Developer - Rails, gRPC & API Prototypes",
-   "location": "Anywhere (Remote)",
-   "url": "https://www.jobleads.com/us/job/remote-junior-game-developer-rails-grpc-api-prototypes--louisville--ed5ce06714342a2dac2b8d893b1cb3aef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://www.jobleads.com/us/job/remote-junior-game-developer-rails-grpc-api-prototypes--louisville--ed5ce06714342a2dac2b8d893b1cb3aef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://talents.vaia.com/companies/black-veatch/greensboro/remote-junior-architectural-designer-collaborate-create-199963160/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.learn4good.com/jobs/online_remote/software_development/5657167834/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs JobLeads",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-25",
-   "pay": {
-    "text": "45K\u201374K a year"
-   },
-   "min_years_mentioned": null,
-   "description_excerpt": "BDO in Louisville, KY is hiring a junior Game Developer for a remote role that values ownership over busywork. You will trace gRPC services, catch Rails regressions, and resurrect flaky Java tests to keep the Louisville suite trustworthy.\n\nThe role emphasizes translating napkin ideas into REST API prototypes and collaborating with the tech team from anywhere in KY. This entry-level position includes coaching, growth opportunities, and a schedule that respects weekends in Kentucky, with a salary",
-   "id": "gj-b1d0c2f6f2e32ac1"
-  },
-  {
-   "company": "Topdeck Productions",
-   "category": "game",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "game",
-   "engine_mentioned": true,
-   "sim_or_xr_mentioned": false,
-   "title": "Freelance Sound Designer for Indie Unity Game (Remote)",
-   "location": "Anywhere (Remote)",
-   "url": "https://www.jobleads.com/us/job/freelance-sound-designer-for-indie-unity-game-remote--united-states--eb0b0565c5b9457850b69963db96eb1c2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://www.jobleads.com/us/job/freelance-sound-designer-for-indie-unity-game-remote--united-states--eb0b0565c5b9457850b69963db96eb1c2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs JobLeads",
-   "posted": "2026-11-18",
-   "first_seen": "2026-11-25",
-   "pay": {
-    "text": "34K\u201383K a year"
-   },
-   "min_years_mentioned": null,
-   "description_excerpt": "Topdeck Productions busca a una persona con experiencia para construir desde cero el audio de un juego indie para PC/Steam, desarrollado en Unity y con formato remoto. Se trata de una oportunidad de contrato para reforzar un proyecto en fase avanzada y elevar su producci\u00f3n a un nivel premium.\n\nResponsabilidades incluyen dise\u00f1ar y producir SFX para combates, interacciones de cartas, personajes e interfaz, asegurando que el audio encaje con la narrativa y el tono del juego, y colaborar con Unity y",
-   "id": "gj-2ab486309e95e78d"
-  },
-  {
    "company": "Honeywell",
    "category": "sim",
    "tier": "az",
@@ -254,35 +455,6 @@
    "id": "gj-4b8bb52374186963"
   },
   {
-   "company": "YO AI Labs",
-   "category": "game",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "game",
-   "engine_mentioned": false,
-   "sim_or_xr_mentioned": true,
-   "title": "Python Game Developer - Remote",
-   "location": "Anywhere (Remote)",
-   "url": "https://yoailabs.careers-page.com/jobs/7f8be919-eb06-466a-bc77-a1c7217cf246?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://yoailabs.careers-page.com/jobs/7f8be919-eb06-466a-bc77-a1c7217cf246?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.linkedin.com/jobs/view/python-developer-remote-at-yo-it-consulting-4435725047?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.talent.com/view?id=644612921315896103&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://us.jobrapido.com/jobpreview/8527063899722219520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://bebee.com/us/jobs/python-game-developer-remote-yo-ai-labs-new-york--lensa-7428_fe1303740578a66a548d91cd6441d506cb9a87ea2e45917b1da54c6f25a43c7c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.jobilize.com/job/us-ny-new-york-python-developer-remote-contract-envision-technology?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs YO AI Labs",
-   "posted": "2026-11-04",
-   "first_seen": "2026-11-25",
-   "pay": {
-    "text": "30\u2013120 an hour"
-   },
-   "min_years_mentioned": null,
-   "description_excerpt": "Job Description: Python Game Developer (Panda3D)\nJob Type: Contract\nLocation: Remote\n\n\nAbout the Role\nWe are seeking experienced Panda3D Developers to contribute to an AI training project. In this role, you will use Panda3D to perform real-world 3D game development tasks and explain your workflows step by step. Your expertise will help enhance AI systems' understanding of game development, 3D graphics, and interactive simulations.\n\n\nKey Responsibilities\nCreate and modify 3D games and simulations using Panda3D.Work with Python, 3D models, animations, and game logic.Develop and improve game mechanics, player controls, and interactive environments.Debug technical issues and optimize game performance.Complete advanced Panda3D development tasks and document your workflows step by step.Create clear instructions and detailed prompts for game development tasks.\nRequired Skills and Qualifications\nStrong professional experience with Panda3D.Hands-on experience with Python and C++ programming.Good understanding of 3D graphics, game development, and simulation concepts.Experience using GitHub for version control and code management.Access to Panda3D and the ability to record your screen while completing tasks.English proficiency of B2 level or higher.Ability to clearly communicate and explain technical workflows.\nPreferred Qualifications\nA portfolio showcasing Panda3D or 3D game development projects.A relevant master's degree or PhD.Previous Human Data experience, such as data annotation, RLHF, or AI model evaluation.Experience optimizing 3D games and simulations.",
-   "id": "gj-ef8611dad204055a"
-  },
-  {
    "company": "Grant Thornton",
    "category": "sim",
    "tier": "az",
@@ -298,8 +470,8 @@
     "https://hine-crull-cared-exiler.com/job/unity-developer-general-electric-tempe-584262428?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://tachelessunisexualutterest.forum/notifications/7CiS1mMo?amp&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://ententedespiteoustomahawked.forum/job/unity-developer-retail-advantage-group-tempe-525816270?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://zigibugy.tattoo/projects/sqN876A3?ampi&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://obasite.surf/data/yLBESFpU?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    "http://filedisknexus.com/job/unity-developer-healthtech-corp-tempe-14774?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://zigibugy.tattoo/projects/sqN876A3?ampi&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    ],
    "source": "Google Jobs BeBee",
    "posted": "2026-11-02",
@@ -312,35 +484,6 @@
    "min_years_mentioned": 3,
    "description_excerpt": "We're a plainspoken technology shop in AZ hunting for an Unity Developer who'd rather delete code than add it. Everything here scales with you \u2014 $73,000 - $113,000 at 3 years, technology ownership soon after, and a Grant Thornton ladder above.\n\n\nKey Responsibilities Translate gloriously-unglamorous business requirements into technical specifications and tasks\n\n\nEnhance test automation frameworks to increase release confidence\n\n\nMonitor system health and set up alerting for growth-minded production environments\n\n\nLead technical design reviews for mid-level technology initiatives\n\n\nPrototype rough Written Communication ideas fast, then decide which earn a place in Grant Thornton's stack\n\n\nPull Grant Thornton's Stress Management stack out of the AZ region before the migration deadline\n\n\nBreak large technology initiatives into Jenkins increments Tempe can actually deliver\n\n\nTurn Grant Thornton's Written Communication on-call noise into alerts that actually mean something\n\n\nWhat You'll Bring The kind of attention to detail that catches what spell-check misses\n\n\nProven track record delivering results as a mid-level Unity Developer\n\n\nProven Jenkins results, ideally seasoned in Tempe, AZ The reliability that lets a manager stop checking in\n\n\nComfort steering technology conversations toward a decision\n\n\nGrant Thornton is a fiercely-supportive Tempe, AZ studio where Jenkins gets treated with the seriousness most companies reserve for marketing. Transparency is a habit, so roadmaps, tradeoffs, and even mistakes get shared openly.\n\n\nWe provide $73,000 - $113,000, a wellness budget, retirement matching, and clear milestones for moving up to the next mid-level.\n\n\nLive and unfilled as of this exact moment, ready for your interest.\n\n\nGrant\nThornton",
    "id": "gj-e09bf28250693b5d"
-  },
-  {
-   "company": "Arizona State University",
-   "category": "sim",
-   "tier": "az",
-   "commute": "near",
-   "bucket": "unity-unreal",
-   "engine_mentioned": true,
-   "sim_or_xr_mentioned": true,
-   "title": "VR Programmer/Developer",
-   "location": "Tempe, AZ",
-   "url": "https://arizonaai.com/jobs/ebe14bed-9b1d-4d69-a374-b594fa43e131?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://arizonaai.com/jobs/ebe14bed-9b1d-4d69-a374-b594fa43e131?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.monster.com/job-openings/vr-programmer-developer-tempe-az--7d70f774-f0b0-43b5-8d12-801380fdd5f4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.ziprecruiter.com/c/arizona-state-university/Job/VR-Programmer-Developer/-in-Tempe,AZ?jid=5162cc42006e6eca&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://hiringcafe.com/job/vr-programmer-developer-arizona-state-university-tempe-arizona-5zg8d7ivm77g0ra2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.jobleads.com/us/job/vr-programmer-developer--tempe--e8a471f69387beb4dbdae99e75253e0f7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://bandana.com/jobs/f897cd97-66f9-4bb8-96a8-fee29dfe77df?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs Arizona AI",
-   "posted": "2026-11-01",
-   "first_seen": "2026-11-25",
-   "pay": {
-    "text": "90K\u2013100K a year"
-   },
-   "min_years_mentioned": null,
-   "description_excerpt": "This position contributes to the creation of scalable, story-driven virtual reality and 2D learning experiences developed through the Dreamscape Learn partnership. The developer will build C# gameplay and interaction systems, turn creative concepts into playable prototypes, use Unity sequencing tools to shape cinematic experiences, and prepare stable builds for review. The work also includes integrating SDKs, improving performance on standalone and mobile VR hardware, developing internal tools, and troubleshooting production issues. The role suits a creative and technically strong Unity developer who enjoys collaborating across programming, art, design, and academic teams. It is based in a hybrid, in-person environment at ASU\u2019s Tempe campus and requires strong communication, organization, adaptability, and interest in immersive educational products.\n\nKey qualificationsBachelor\u2019s degree plus five years of relevant experience, or equivalent preparationAdvanced Unity 3D and VR development experience, including Timeline or comparable sequencing toolsStrong C# and object-oriented or data-oriented programming skillsExperience optimizing assets, rendering, and performance for standalone or mobile VRFamiliarity with VR hardware, version control, and collaborative project toolsPortfolio demonstrating Unity, VR/AR, interaction design, programming, or technical art work",
-   "id": "gj-76b1204e4a5e3cbc"
   },
   {
    "company": "RealityJam",
@@ -356,10 +499,10 @@
    "all_apply_links": [
     "https://www.ziprecruiter.com/c/realityjam/Job/Junior-Game-Developer/-in-Remote,US?jid=b837ba0a2c514fba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://www.monster.com/job-openings/junior-game-developer--06bf8089-93bd-414e-b6e4-2366c795b1a7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://www.indeed.com/m/viewjob?jk=30b235e2f7c2988f&from=serp&tk=1k58s36sgjcno801&xkcb=SoAi67M2dowDOlWTTR0cbzkdCdPP&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://www.jobleads.com/us/job/junior-game-developer--akron--ee57fc22c5d715e98087939d7150e7565?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://www.careerbuilder.com/job-details/junior-game-developer--06bf8089-93bd-414e-b6e4-2366c795b1a7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://realityjam.breezy.hr/p/127c1df4ab6601-junior-game-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://bandana.com/jobs/b78dcbc0-3a58-463f-931d-c287fffb3f13?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    "https://realityjam.breezy.hr/p/127c1df4ab6601-junior-game-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    ],
    "source": "Google Jobs ZipRecruiter",
    "posted": "",
@@ -387,7 +530,8 @@
    "all_apply_links": [
     "https://lensa.com/job-v1/arena/remote/game-developer/a00d788a7e2a7776deb9ed0389e5f059?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://www.jobleads.com/us/job/dinosaur-game-game-developer-coder--new-york--e378a36a17e4b1b6fccb947fded3dd6af?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://talents.vaia.com/companies/arena/dinosaur-game-game-developer-coder-131525507/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    "https://talents.vaia.com/companies/arena/dinosaur-game-game-developer-coder-131525507/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://www.jobilize.com/amp/job/us-dinosaur-game-developer-coder-united-states-arena-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    ],
    "source": "Google Jobs Lensa",
    "posted": "",
@@ -396,64 +540,6 @@
    "min_years_mentioned": null,
    "description_excerpt": "Dinosaur Game: Game Developer (Coder) We are looking for a passionate and creative Coder to join our team and help develop and enhance Dinosaur Game. You will be responsible for building smooth gameplay mechanics, optimizing performance, and bringing fun ideas to life in a fast-paced development environment. \n\nLocation: Remote / Flexible \n\n** Job Type:** Full-time / Part-time \n\nResponsibilities \n\n Develop and maintain core game systems and features Write clean, efficient, and scalable code Collaborate with designers and artists to implement gameplay elements Optimize game performance across different platforms Debug and fix issues to ensure a smooth player experience  Requirements \n\n Strong experience in programming (JavaScript, C++, or similar) Familiarity with game engines or browser-based games is a plus Understanding of game physics, animations, and logic systems Problem-solving mindset and attention to detail Ability to work independently and in a team  Nice to Have \n\n Experience with casual or endless runner games Knowledge of performance optimization techniques Passion for simple yet addictive game design  What We Offer \n\n Flexible working hours Creative and supportive team environment Opportunity to work on a widely recognized game concept Room for growth and innovation",
    "id": "gj-327bd56b876e1619"
-  },
-  {
-   "company": "ESRhealthcare and EXEC STAFF RECRUITERS",
-   "category": "game",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "game",
-   "engine_mentioned": true,
-   "sim_or_xr_mentioned": false,
-   "title": "Cocos2d-x Junior Game Developer remote",
-   "location": "Anywhere (Remote)",
-   "url": "https://career.io/job/remote-cocos2d-x-junior-game-developer-remote-new-york-esrhealthcare-and-exec-staff-d8cd1bb0f31ac2c5c26cd1e5cf38e3b0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://career.io/job/remote-cocos2d-x-junior-game-developer-remote-new-york-esrhealthcare-and-exec-staff-d8cd1bb0f31ac2c5c26cd1e5cf38e3b0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://naukrimitra.in/job/remote-game-tester/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://jobmesh.io/job/1d4c1e58-aad5-41a8-abef-a98354ecffb0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://frontnova2.uaeentryleveljob.lovestoblog.com/blogs/news/remote-game-tester-beta-testing?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://keepitsimple.iphoneapple.dedyn.io/blogs/news/remote-game-tester-beta-testing?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://remote.expertini.com/job/za/remote-junior-game-developer-apprentice-sandton-placements24-292-10635746/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs Career.io",
-   "posted": "",
-   "first_seen": "2026-11-25",
-   "pay": null,
-   "min_years_mentioned": null,
-   "description_excerpt": "Cocos2d-x Junior Game Developer\n\n\n\n\n\nJob Type: Contractor\n\n\n\n\n\nLocation: Remote\n\n\n\n\n\nJob Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required \u2014 your domain knowledge is what matters.\n\n\n\n\n\nKey Responsibilities:\n\n\nDevelop and refine game logic, mechanics, and features using Cocos2d-x for prototype and production-level projects.Collaborate closely with the customer's team to provide high-quality real-world input for AI training processes.Create, modify, and troubleshoot game assets and scenes to support a diverse set of training objectives.Test, debug, and optimize Cocos2d-x code to ensure robust and efficient gameplay experiences.Document code and processes thoroughly, ensuring clarity for both technical and non-technical stakeholders.Engage in open, clear written and verbal communication to report project status and challenges.Work iteratively in response to feedback, consistently improving deliverables for AI development needs.\n\n\n\nRequired Skills and Qualifications:\n\n\nSolid knowledge of Cocos2d-x and hands-on experience with 2D game development workflows.Strong problem solving and troubleshooting abilities in a game development context.Experience collaborating remotely with distributed teams in a fast-paced environment.Excellent written and verbal communication skills, with a focus on clear, concise updates and documentation.Ability to follow technical specifications and adapt to evolving project requirements.Understanding of game design principles and player experience optimization.Self-motivated, detail-oriented, and eager to grow within a dynamic AI training environment.\n\n\n\nPreferred Qualifications:\n\n\nExperience working on projects for AI training or data generation purposes.Familiarity with additional game engines or programming languages.Background in collaborating with AI or machine learning specialists.\n\n\n\nWorking Place:\n\n\n\n\n          \n            NYC, New York, United States\n          \n        \n\n\n\n\n\n              \n                Company\n              :\n            \n\n\n\n\n\n          ESR Healthcare",
-   "id": "gj-f608d758fd6b3404"
-  },
-  {
-   "company": "Recruitment Room",
-   "category": "game",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "game",
-   "engine_mentioned": false,
-   "sim_or_xr_mentioned": false,
-   "title": "Game Designer / Gameplay Developer",
-   "location": "Anywhere (Remote)",
-   "url": "https://www.jobleads.com/us/job/game-designer-gameplay-developer--united-states--e6fa572011f0544f3003feaabd90a9773?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://www.careerbuilder.com/job-details/game-designer-gameplay-developer--9554bfc9-e448-466b-80a9-7b50bdd7649a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.monster.com/job-openings/game-designer-gameplay-developer--9554bfc9-e448-466b-80a9-7b50bdd7649a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.jobleads.com/us/job/game-designer-gameplay-developer--united-states--e6fa572011f0544f3003feaabd90a9773?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.salonameno.nl/career/job/game-designer-gameplay-developer-at-auraone-human-data-remote-OUJpQ1YvZTBwNFBkbG1SUWRQeUVMeW1sZXc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://amassage.org/gig/job/game-designer-gameplay-developer-at-auraone-human-data-remote-OXJRWUlDV2wzaFo3SkZzelg2MnNpV242R1E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://lindenwaxskincare.com/wp-job/job/game-designer-gameplay-developer-at-saidgig-united-kingdom-c29kb1dSUnNXQXRROUMrNS81K3FYak5sY3c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs CareerBuilder",
-   "posted": "",
-   "first_seen": "2026-11-25",
-   "pay": {
-    "min": 96000,
-    "max": 172800,
-    "unit": "year"
-   },
-   "min_years_mentioned": null,
-   "description_excerpt": "Game Designer / Gameplay Developer\n\nContract \u00b7 Remote \u00b7 North America, Latin America, Europe, UK, and Oceania\n\nAnnual Compensation Equivalent: $96,000\u2013$172,800\nHourly Rate: $50\u2013$90/hr\n\nAbout the RoleThis contract role is focused on reviewing and annotating video sessions of robotic arms completing real-world tasks. It is an AI training and video annotation project rather than a traditional game development assignment.\n\nYour experience breaking complex gameplay and interactive behavior into actions, states, interactions, and outcomes is directly relevant. You will apply systems thinking and visual reasoning to identify what is happening in each video, label key events consistently, and help produce high-quality training data.\n\nNo prior experience in AI, robotics, or data annotation is required.\n\nWhat You\u2019ll DoReview video footage of robotic arms performing tasks using detailed annotation and grading guidelines.\n\nIdentify and label actions, object interactions, state changes, task outcomes, errors, and other relevant events within video segments.\n\nApply knowledge of action sequences, system states, interactions, cause and effect, and success or failure conditions to interpret robotic behavior accurately.\n\nUse dedicated video annotation tools to tag content precisely and consistently.\n\nFlag unclear or ambiguous moments and document your reasoning in concise written notes.\n\nReview annotations and provide constructive feedback as part of quality control.\n\nComplete assigned batches accurately and within established deadlines.\n\nWhat We\u2019re Looking ForProfessional or academic background in game design, gameplay development, technical game design, game QA, or a related field.\n\nStrong understanding of action sequences, object states, interactions, rules, and cause-and-effect relationships.\n\nExperience reviewing, testing, debugging, or documenting gameplay behavior.\n\nExcellent attention to detail and the ability to apply consistent criteria across repetitive visual tasks.\n\nStrong written communication skills, including the ability to explain observations and edge cases clearly.\n\nAnalytical skills and strong visual reasoning.\n\nExperience with video annotation, data annotation, visual QA, AI training projects, or robotics is helpful but not required.\n\nEngagement & CompensationContract position\n\nFully remote\n\n$50\u2013$90 per hour\n\nAnnual compensation equivalent of $96,000\u2013$172,800 based on 40 hours per week across 48 workable weeks\n\nActual earnings will depend on hours and assignments available\n\nNo prior AI, robotics, or data annotation experience is required\n\n\nRemote\n\n\n\nSkills:\nAcademic Background, Artificial Intelligence (AI), Communication Skills, Data Visualization, Detail Oriented, Game Design, Games Programming, Quality Assurance, Quality Control, Robotics, Technical/Engineering Design, Training Data Sets, Writing Skills\n\n\nRecruitment Room",
-   "id": "gj-7b5b66122b494ae0"
   },
   {
    "company": "Ten4",
@@ -480,33 +566,6 @@
    "id": "gj-ecf5381ffa465174"
   },
   {
-   "company": "YO IT Consulting",
-   "category": "game",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "game",
-   "engine_mentioned": true,
-   "sim_or_xr_mentioned": false,
-   "title": "Jr Game Developer Panda3D - Remote",
-   "location": "Anywhere (Remote)",
-   "url": "https://www.mediabistro.com/jobs/3541628151-remote-3d-game-developer-godot-ragdoll-physics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://www.linkedin.com/jobs/view/jr-game-developer-panda3d-remote-at-yo-it-consulting-4439118456?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.mediabistro.com/jobs/3541628151-remote-3d-game-developer-godot-ragdoll-physics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.jobleads.com/us/job/remote-panda3d-game-developer-python--united-states--e93a316ece9fa4a1237f346f7c2e3814b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://ionwork.infinityfree.io/remote-jobs/jr-game-developer-panda3d-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://wfhzync.liveblog365.com/remote-jobs/jr-game-developer-panda3d-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://workcore.talk4fun.net/remote-jobs/jr-game-developer-panda3d-remote-4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs LinkedIn",
-   "posted": "",
-   "first_seen": "2026-11-25",
-   "pay": null,
-   "min_years_mentioned": null,
-   "description_excerpt": "Job Title: Jr Game Developer Panda3D\n\nJob Type: Contract\n\nLocation: Remote\n\nJob Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required \u2014 your domain knowledge is what matters.\n\nKey Responsibilities\n\nLeverage your proficiency in Python and C++ to provide insights and feedback on interactive game development tasks.Utilize the Panda3D engine to review, critique, and suggest improvements on code samples and game logic.Contribute domain-specific examples to help enhance AI understanding of modern game development workflows.Analyze and address practical challenges in game rendering, asset management, and gameplay mechanics.Document and explain decision-making processes in a clear, concise manner for AI training purposes.Collaborate with a distributed team to deliver high-quality, real-world input that shapes future AI technologies.Participate in iterative feedback cycles to continuously improve AI learning outcomes.\n\nRequired Skills And Qualifications\n\nSolid hands-on experience with Python programming, especially in game development contexts.Strong understanding of the Panda3D engine and its practical application in creating interactive 3D environments.Familiarity with C++ and its integration within game engines.Proficient in using GitHub for version control, code reviews, and collaboration.Ability to communicate complex technical concepts clearly and effectively.Meticulous attention to detail and problem-solving mindset.Self-motivated and comfortable working independently in a remote setting.\n\nPreferred Qualifications\n\nPrevious experience contributing to open-source projects or AI-related initiatives.Knowledge of modern software development practices and pipelines in game development.",
-   "id": "gj-8cbd63b4bf26d2b1"
-  },
-  {
    "company": "Upwork",
    "category": "game",
    "tier": "remote",
@@ -527,57 +586,6 @@
    "min_years_mentioned": null,
    "description_excerpt": "I'm looking for a long-term Unreal Engine developer to help build a third-person action/ adventure game planned for PC and Nintendo Switch. I already have the core concept, visual direction, gameplay ideas, and progression systems prepared. We'll start with a paid prototype focused on movement, combat, camera, and enemy Al. UE5, Blueprint/C++, optimization, and console experience are a plus. Please send examples, rates, availability, and relevant experience",
    "id": "gj-a8cd71f2305448ed"
-  },
-  {
-   "company": "Loans for Australia",
-   "category": "sim",
-   "tier": "az",
-   "commute": "near",
-   "bucket": "unity-unreal",
-   "engine_mentioned": true,
-   "sim_or_xr_mentioned": false,
-   "title": "Unity Developer: Build End-to-End Features & RabbitMQ",
-   "location": "Mesa, AZ",
-   "url": "https://www.jobleads.com/us/job/unity-developer-build-end-to-end-features-rabbitmq--mesa--ee41dc342d3b53c2f5922f79fc3f353ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://www.jobleads.com/us/job/unity-developer-build-end-to-end-features-rabbitmq--mesa--ee41dc342d3b53c2f5922f79fc3f353ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.learn4good.com/jobs/mesa/arizona/software_development/5662569730/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs JobLeads",
-   "posted": "",
-   "first_seen": "2026-11-25",
-   "pay": {
-    "min": 100000,
-    "max": 140000,
-    "unit": "year"
-   },
-   "min_years_mentioned": null,
-   "description_excerpt": "DataDriven Corp in Mesa, AZ is hiring a Unity Developer who has shipped Ruby on Rails to production, learned from the experience, and will own RabbitMQ from day one. Earn $100,000 - $140,000 as a Unity Developer and join a collaborative team building trusted technology.\n\nYou will collaborate with product and design teams to ship features end to end, apply RabbitMQ and Next.js to solve engineering challenges, decode a legacy Kotlin service, and pair-program on Google Cloud edge cases across Mesa.",
-   "id": "gj-4ff28f7c97faa43f"
-  },
-  {
-   "company": "iboss",
-   "category": "sim",
-   "tier": "az",
-   "commute": "far",
-   "bucket": "software",
-   "engine_mentioned": false,
-   "sim_or_xr_mentioned": false,
-   "title": "C++ Software Engineer",
-   "location": "Arizona",
-   "url": "https://startup.jobs/c-software-engineer-iboss-8300671?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://startup.jobs/c-software-engineer-iboss-8300671?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.monster.com/job-openings/csoftware-engineer-az--cae2e23d-2778-4976-9016-a1b2c7f9160e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.careerbuilder.com/job-details/csoftware-engineer-az--cae2e23d-2778-4976-9016-a1b2c7f9160e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs Startup Jobs",
-   "posted": "",
-   "first_seen": "2026-11-25",
-   "pay": null,
-   "min_years_mentioned": 7,
-   "description_excerpt": "Company Overviewiboss is a leading AI-powered Zero Trust SASE (Secure Access Service Edge) platform trusted by more than 4,000 enterprises worldwide, including a significant number of Fortune 50 companies and U.S. government agencies. iboss enables the modern workforce to connect securely and directly to all applications from wherever they work. Built on a containerized cloud architecture, iboss delivers security capabilities such as SWG, malware defense, RBI, CASB, and data loss prevention to all connections via the cloud, instantaneously and at scale. This eliminates the need for traditional network security appliances such as VPNs, firewalls, and web gateway proxies, which are ineffective at protecting a cloud-first and mobile world.  Leveraging a purpose-built cloud architecture backed by 230+ issued and pending patents and more than 100 points of presence globally, iboss processes over 150 billion transactions daily, blocking 4 billion threats per day. To learn more, visit www.iboss.com. Job Description As a C++ Software Engineer at iboss, you will have the opportunity to work on multiple technologies at a fast growing cybersecurity company. This is an excellent opportunity to become a leading member of a rapidly growing software development team. There are many exciting projects on which to work. iboss software developers excel at solving tough problems, collaborating well, and working with customer teams to rapidly deploy solutions. Responsibilities Ability to design and develop clean and maintainable code for high-volume production applicationsExperience coding in C/C++ and other technologiesExperience working with large data setsExperience developing distributed software product architecturesQuickly understand and extend engineering architectural patternsDeep understanding of the concepts behind solid software design: Abstraction, Modularity, Design Patterns, Representation Invariants, Networking, wireless, and/or security experience or knowledge preferredDocument engineering designsStrong database knowledge of SQL constructs, and data modelingQualifications 7+ years of software development experience in large scale commercial networking-oriented applicationsTCP/IP protocol stack, HTTP, DNS, and other related protocolsExperience developing distributed software product architecturesStrong analytical capability and record of independent contributionsMust have a good sense of engineering tradeoffs, within the contexts of extendibility, scalability, performance, and maintainabilityWorking knowledge of database technologies and SQLComfortable working on a Unix environmentExperience working in an Agile environmentTeam player with excellent interpersonal skills and the ability to work in a fast-paced environmentDemonstrate excellent oral and written communication skills with the ability to listen, articulate, facilitate and advocateMaster's or Bachelor's degree in either Computer Science, Computer Engineering, Electrical Engineering or Software Engineering Benefits Competitive compensation Comprehensive health, vision, and dental benefits401K with company matchUnlimited (PTO) and paid holidaysThe duties and responsibilities described above are essential functions of the job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, status as a veteran or as an individual with a disability. *This position is not eligible for spo",
-   "id": "gj-521eb0e2192fdc64"
   },
   {
    "company": "Intel (Chandler)",
@@ -750,6 +758,32 @@
    "id": "gj-92dfac5241fee7ca"
   },
   {
+   "company": "Synthires",
+   "category": "sim",
+   "tier": "remote",
+   "commute": "",
+   "bucket": "unity-unreal",
+   "engine_mentioned": true,
+   "sim_or_xr_mentioned": false,
+   "title": "Unreal Engine C++ Developer (Remote | )",
+   "location": "Anywhere (Remote)",
+   "url": "https://bebee.com/us/jobs/unreal-engine-c-developer-remote-synthires--fj-2471310492?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "all_apply_links": [
+    "https://bebee.com/us/jobs/unreal-engine-c-developer-remote-synthires--fj-2471310492?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+   ],
+   "source": "Google Jobs BeBee",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-24",
+   "pay": {
+    "min": 50.0,
+    "max": 100.0,
+    "unit": "hour"
+   },
+   "min_years_mentioned": null,
+   "description_excerpt": "Unreal Engine Developer\nPosition: Unreal Engine Developer\nType: Contractor\nCompensation: $50\u2013$100/hour\nLocation: Remote\nAbout the Opportunity\nWe are seeking experienced Unreal Engine Developers to contribute their technical expertise to a customer project focused on training next-generation AI systems.\nIn this role, you'll apply your hands-on game development and C++ programming experience to help improve how AI models understand and perform technical game development tasks. You'll work with Unreal Engine, gameplay systems, Blueprints, and interactive development challenges while evaluating technical solutions and providing structured feedback.\n\n\nKey Responsibilities\nApply Unreal Engine and C++ expertise to real-world game development scenarios and technical challenges.Develop, review, debug, and optimize C++ code within Unreal Engine.Work with gameplay mechanics, Blueprints, and interactive systems.Evaluate technical solutions, identify errors, and provide structured feedback to support AI training.Document technical decisions and clearly explain game development concepts.Assess code quality and provide technical insights on game development workflows.Required Qualifications\nStrong hands-on experience developing games or interactive applications using Unreal Engine.Proficiency in C++ programming within Unreal Engine.Experience developing, debugging, and optimizing gameplay systems and mechanics.Solid understanding of Unreal Engine workflows, Blueprints, and game development principles.Strong problem-solving and technical communication skills.A portfolio, GitHub repository, or links to previous Unreal Engine projects demonstrating relevant development experience.Preferred Qualifications\nExperience developing games or interactive experiences in Fortnite.Familiarity with Unreal Editor for Fortnite (UEFN), Fortnite Creative, or Verse programming.Experience working on shipped games or complex Unreal Engine projects.Experience documenting technical workflows or evaluating code quality.Compensation & Engagement\nCompensation: $50\u2013$100 per hour.Engagement Type: Independent Contractor.Work Arrangement: Remote.Project Focus: Unreal Engine development, C++ programming, gameplay systems, technical evaluation, and AI training support.",
+   "id": "gj-5dd14a2667bc75d2"
+  },
+  {
    "company": "Keywords Studios Plc",
    "category": "game",
    "tier": "remote",
@@ -772,29 +806,6 @@
    "min_years_mentioned": null,
    "description_excerpt": "Wizcorp is a Tokyo-based game studio operating 100% remotely. We seek Unreal Engine programmers to work on next-generation console titles, with flexible team placement based on background.\n\nRequirements include several years of Unreal Engine experience and strong C++. You must reside in Japan during employment, and you will be mentored while contributing to both games and tools across the project lifecycle.",
    "id": "gj-beeaf08f96e69239"
-  },
-  {
-   "company": "Templar Media",
-   "category": "sim",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "unity-unreal",
-   "engine_mentioned": true,
-   "sim_or_xr_mentioned": false,
-   "title": "Remote Unreal 5 Narrative Designer",
-   "location": "Anywhere (Remote)",
-   "url": "https://talents.vaia.com/companies/snailgamesusa/unreal-engine-5-level-world-designer-remote-4-weeks-170425034/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://jooble.org/jdp/-7599403622813082219?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://talents.vaia.com/companies/snailgamesusa/unreal-engine-5-level-world-designer-remote-4-weeks-170425034/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs Jooble",
-   "posted": "2026-11-14",
-   "first_seen": "2026-11-24",
-   "pay": null,
-   "min_years_mentioned": null,
-   "description_excerpt": "Templar Media in Alpharetta, GA is seeking a Technical Narrative Designer to bridge storytelling and gameplay in Unreal Engine 5. You will translate scripts and mission designs into playable experiences, collaborate with writers, designers, artists, and programmers, and implement narrative events and mission logic.\nThis hands-on role demands strong problem-solving, attention to detail, and ability to work in a remote or on-site team, ensuring player choices have meaningful consequences and\n\n#J-18808-Ljbffr  Templar Media",
-   "id": "gj-50ba68379d3f0ef3"
   },
   {
    "company": "Filrsafekeep",
@@ -826,30 +837,6 @@
    "id": "gj-87f9f829ef5556bd"
   },
   {
-   "company": "Game5mobile",
-   "category": "game",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "game",
-   "engine_mentioned": true,
-   "sim_or_xr_mentioned": false,
-   "title": "Unity Game Programmer (2D/3D) \u2013 Prototyping & Collaboration",
-   "location": "Anywhere (Remote)",
-   "url": "https://www.jobleads.com/us/job/unity-game-programmer-2d-3d-prototyping-collaboration--united-states--e55097f9460b8b34351d79ccbeb259c7f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://www.jobleads.com/us/job/unity-game-programmer-2d-3d-prototyping-collaboration--united-states--e55097f9460b8b34351d79ccbeb259c7f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs JobLeads",
-   "posted": "2026-11-13",
-   "first_seen": "2026-11-24",
-   "pay": {
-    "text": "70K\u2013110K a year"
-   },
-   "min_years_mentioned": 2,
-   "description_excerpt": "Game5Mobile, a game studio based in Surabaya, Indonesia, invites a motivated Unity developer to join our creative team. You will implement features and game elements, prototype ideas, and collaborate with designers and artists to bring concepts to life within 3D and 2D environments.\n\nRequirements include at least 2 years of game development experience, strong programming skills in C and preferably C++, and solid problem-solving and communication abilities.",
-   "id": "gj-e8e0cd3b2a8446b5"
-  },
-  {
    "company": "AuraOne Human Data",
    "category": "game",
    "tier": "remote",
@@ -859,10 +846,9 @@
    "sim_or_xr_mentioned": false,
    "title": "Solar2D Game Developer \u2014 AI Code & Gameplay Reviewer",
    "location": "Anywhere (Remote)",
-   "url": "https://www.learn4good.com/jobs/online_remote/info_technology/5664088551/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "url": "https://www.glassdoor.com/job-listing/solar2d-game-developer-ai-code-gameplay-reviewer-auraone-human-data-JV_KO0,48_KE49,67.htm?jl=1010322079965&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
    "all_apply_links": [
-    "https://www.glassdoor.com/job-listing/solar2d-game-developer-ai-code-gameplay-reviewer-auraone-human-data-JV_KO0,48_KE49,67.htm?jl=1010322079965&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.learn4good.com/jobs/online_remote/info_technology/5664088551/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    "https://www.glassdoor.com/job-listing/solar2d-game-developer-ai-code-gameplay-reviewer-auraone-human-data-JV_KO0,48_KE49,67.htm?jl=1010322079965&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    ],
    "source": "Google Jobs Glassdoor",
    "posted": "2026-11-09",
@@ -912,8 +898,8 @@
    "url": "https://www.tealhq.com/job/associate-game-designer-technical_7ea1a632a4ecff30caade87d90079f0fe935d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
    "all_apply_links": [
     "https://www.tealhq.com/job/associate-game-designer-technical_7ea1a632a4ecff30caade87d90079f0fe935d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://knitwellgroup.wd1.myworkdayjobs.com/en-US/US_Corporate_Jobs/job/Associate-Technical-Designer_R-2039222?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://www.jobleads.com/us/job/associate-game-designer-technical--united-states--e750e57f85e3c7abe8d175defa23778d4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://knitwellgroup.wd1.myworkdayjobs.com/en-US/US_Corporate_Jobs/job/Associate-Technical-Designer_R-2039222?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://talents.vaia.com/companies/michael-kors/associate-designer-womens-mainline-handbags-108362249/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://jobtoo.ru/vakansii/associate-game-designer-technical-naughty-dog-ssha-f5e408e4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://wordly.productionshop.dedyn.io/blogs/news/associate-game-designer-technical?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
@@ -944,8 +930,8 @@
     "https://skillsy.c2v.liveblog365.com/remote-jobs/godot-game-developer-remote-contract?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://wagewise.site/remote-jobs/software-developer-remote-contract?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://www.oneroadmap.io/jobs/6aec7ab799f4177693d91f1c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://taskbider.com/listings/openscad-developer-remote-contract-xperteez-technology-6ukpqg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://bebee.com/us/jobs/software-developer-remote-contract-xperteez-technology--ss-us-xm0hox?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    "https://bebee.com/us/jobs/software-developer-remote-contract-xperteez-technology--ss-us-xm0hox?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "https://us.trabajo.org/job-4111-d20c6401ef124da6da40957197bcc826?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    ],
    "source": "Google Jobs Teal",
    "posted": "2026-11-02",
@@ -958,29 +944,6 @@
    "id": "gj-adf3c7f0bc12c1bf"
   },
   {
-   "company": "Electronic Arts",
-   "category": "game",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "game",
-   "engine_mentioned": true,
-   "sim_or_xr_mentioned": false,
-   "title": "Technical Designer - Madden",
-   "location": "Anywhere (Remote)",
-   "url": "https://www.joinrs.com/fr/jobs/5220802?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://www.joinrs.com/fr/jobs/5220802?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://allinone.tuapnabhaihai.infinityfree.io/blogs/news/technical-designer-madden?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs Joinrs",
-   "posted": "2026-10-27",
-   "first_seen": "2026-11-24",
-   "pay": null,
-   "min_years_mentioned": null,
-   "description_excerpt": "# Description & Requirements\n\nElectronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.\n\n***Please note: this role is on-site hybrid (3x per week) in Orlando, FL. Relocation assistance is not provided for this role.***\n\n**EA SPORTS** is one of the leading sports entertainment brands in the world, with top-selling videogame franchises, award-winning interactive technology, fan programs, and cross-platform digital experiences. **EA SPORTS** creates connected experiences that ignite the emotion of sport through industry-leading sports video games, including **Madden NFL** football, **EA SPORTS FC** soccer, **NHL\u00ae** hockey, and **EA SPORTS UFC**.\n\nAs a Technical Game Designer on **EA SPORTS Madden NFL** Football, you\u2019ll be a hands-on creator who builds new presentation features and complex systems. You\u2019ll partner closely with design, engineering, and content teams to prototype, implement, iterate, and polish\u2014from early concept through live tuning. If you're passionate about game design and thrive working with a collaborative team, we\u2019d love to hear from you.\n\n**Responsibilities:**\n\n*   Work with designers, engineers and other creatives to develop the vision and innovate on compelling gameplay systems.\n*   Implement and drive gameplay systems and/or modes from concept to ship quality.\n*   Align and collaborate with multiple disciplines and communicate the vision of gameplay features.\n*   Ensure a high-quality release by bug fixing, balancing, and creating a fun gameplay experience.\n*   Pitch ideas, provide feedback and rapid iteration with the team\n*   Build all-new innovative Madden experiences (mechanics, modes, progression, meta systems, tuning frameworks, etc.) that integrate cleanly into the core game.\n*   Quick prototype building of new features\n*   Create robust scripting-driven implementations (logic, state machines, event flows, data setup) that are scalable and maintainable.\n\n**Requirements:**\n\n*   Experience with scripting languages (such as Lua, Python, Javascript, and/or other scripting languages).\n*   Worked on multiple shipped titles as a Technical Designer\n*   Passion for crafting gameplay systems, mechanics and game modes.\n*   Familiarity, passion and knowledge of American Football and football products.\n*   Expertise in comprehending the game design process, specifically with game mechanics and design theory.\n*   Experience with content-driven game engines (Unreal, Frostbite, Unity, GtkRadiant).\n*   Ability to read and understand C++\n*   Experience developing and in a multiplayer live service environment\n\n***About Electronic Arts***\n\nWe\u2019re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.\n\nWe adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, ",
-   "id": "gj-b7c8ae26ce6296c7"
-  },
-  {
    "company": "YO IT Consulting",
    "category": "game",
    "tier": "remote",
@@ -990,10 +953,9 @@
    "sim_or_xr_mentioned": false,
    "title": "Cocos2d-x Junior Game Developer - Remote",
    "location": "Anywhere (Remote)",
-   "url": "https://jobscout.liveblog365.com/remote-jobs/cocos2d-x-junior-game-developer-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+   "url": "https://www.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4439968194?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
    "all_apply_links": [
-    "https://www.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4439968194?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://jobscout.liveblog365.com/remote-jobs/cocos2d-x-junior-game-developer-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    "https://www.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4439968194?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    ],
    "source": "Google Jobs LinkedIn",
    "posted": "",
@@ -1019,8 +981,7 @@
     "https://80.greatchoice.42web.io/blogs/news/generalist-software-engineer-unity-remote-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://frontnova2.uaeentryleveljob.lovestoblog.com/blogs/news/generalist-software-engineer-unity-remote-remote-3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "https://takeitupnow.pntr.dev/blogs/news/generalist-software-engineer-unity-remote-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://watchmenow.tuhopagal.likesyou.org/blogs/news/generalist-software-engineer-unity-remote-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://y4.infinityfrees.wuaze.com/blogs/news/generalist-software-engineer-unity-remote-remote-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    "https://watchmenow.tuhopagal.likesyou.org/blogs/news/generalist-software-engineer-unity-remote-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
    ],
    "source": "Google Jobs ZipRecruiter",
    "posted": "",
@@ -1029,59 +990,6 @@
    "min_years_mentioned": 4,
    "description_excerpt": "Job Title: Gameplay Unity Engineer\n\n\nLocation: Remote\n\n\nPosition Type: Contract\n\n\nPosition Overview: We are seeking an experienced Gameplay Unity Engineer with over 4 years of professional experience in the video game industry. The ideal candidate will have a robust understanding of gameplay mechanics and implementation, with a strong desire to develop engaging and high-quality game experiences. This role involves writing and debugging gameplay code across various systems, including physics, AI, input, UI, and tools.\n\n\nEssential Duties and Responsibilities:\n\n\n\n Participate in the gameplay programming design process.\n Maintain regular communication with other game development disciplines (i.e., Art, Design, Audio, and Production) to determine how their efforts will affect the gameplay programming.\n Provide technical designs and specifications for all new gameplay features.\n Write and debug gameplay and engine code.\n Collaborate with designers to refine gameplay mechanics and ensure smooth implementation.\n Optimize gameplay systems for performance and scalability.\n\nQualifications:\n\n\n\n Must have expert knowledge of C# and Unity.\n At least 4 years of experience as a Programmer/Software Engineer in the gaming industry \n Must have a deep understanding of gameplay code design.\n Must have experience in programming for at least 1 AAA PC/Console title.\n Must possess hands-on knowledge of basic game design and implementation.\n Must possess a strong desire to write gameplay/engine code.\n Experience with Unreal Engine is a plus.\n Experience working on VR projects is a plus.",
    "id": "gj-3d42282e1fe2db2b"
-  },
-  {
-   "company": "Blizzard Entertainment, Inc.",
-   "category": "game",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "game",
-   "engine_mentioned": true,
-   "sim_or_xr_mentioned": false,
-   "title": "Gameplay Engineer, Combat - STARCRAFT | Irvine, CA",
-   "location": "Anywhere (Remote)",
-   "url": "https://xboxgaming.wd1.myworkdayjobs.com/en-US/Blizzard_External_Careers/job/Software-Engineer--Gameplay--NPC---StarCraft---Irvine--CA_R028141-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://www.ziprecruiter.com/c/blizzard-entertainment/Job/Gameplay-Engineer,-Combat-StarCraft-%7C-Irvine,-CA/-in-Irvine,CA?jid=33ec5f3c76bb4cef&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://xboxgaming.wd1.myworkdayjobs.com/en-US/Blizzard_External_Careers/job/Software-Engineer--Gameplay--NPC---StarCraft---Irvine--CA_R028141-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://www.sonara.ai/job-details/gameplay-engineer-at-blizzard-entertainment-0e0a6d99-28b3-7569-df1a-01e0a0e0238d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://jaabz.com/jobs/290781-gameplay-engineer-npc-starcraft-irvine-ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://jobscout.liveblog365.com/remote-jobs/software-engineer-gameplay-combat-starcraft-irvine-ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "https://workcore.talk4fun.net/remote-jobs/software-engineer-gameplay-combat-starcraft-irvine-ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs ZipRecruiter",
-   "posted": "",
-   "first_seen": "2026-11-24",
-   "pay": {
-    "text": "38.08\u201370.44 an hour"
-   },
-   "min_years_mentioned": 5,
-   "description_excerpt": "Team Name:\n\nStarCraft\n\n\n\nJob Title:Gameplay Engineer, Combat - STARCRAFT | Irvine, CA\n\nRequisition ID:R028084\n\nJob Description:Your Mission\n\nBlizzard Entertainment is assembling a team to build the next chapter of STARCRAFT, returning to a universe forged in interstellar war. This mission offers something new: crafting an original story-driven, open-world shooter while honoring the legacy of one of Blizzard's most beloved games.\n\nWe are here to reignite this universe alongside you. We are here to make STARCRAFT, and it's about damn time.\n\n\n\nWe are looking for a Software Engineer to help craft this new game for Blizzard. As a key member of the development team, you will be responsible for delivering. You will be responsible for developing combat experiences, character behaviors, navigation systems, and gameplay technologies that make combat gameplay fun. Alongside a talented team of engineers, designers and artists, you will build the foundations that power engaging, responsive, and immersive gameplay.\n\n\n\nThis role offers a hybrid work week, with a mix of work-from-home and on-site days, based out of our Irvine studio. \n\n\n\nThis role includes, but is not limited to, the following responsibilities:\n\nDevelop and maintain combat systems supporting interactions between players and NPCs, with a strong emphasis on performance, scalability, and maintainability.Partner with encounter, character, and system designers to transform gameplay goals into robust technical solutions.Collaborate with designers, artists, animators, and gameplay engineers to implement polished combat experiences.Identify performance bottlenecks, technical risks, and implementation challenges while proposing practical solutions.Collaborate with cross-disciplinary and technical partners to diagnose issues and drive fixes to resolution.\n\nRequirements\n\nMinimum 5 years of experience in gameplay engineering or a combination of applicable training and related experience.Contributions on action focused combat systems, NPC AI, navigation, or gameplay features on at least one shipped title.Strong C++ programming skills, including performance analysis and optimization.Experience delivering high-quality features as part of a cross-functional team including designers, artists, animators, level designers, FX artists, etc.\n\nBonus Points\n\nExperience working with Unreal EngineExperience and interest in character animation, navigation, combat or gameplay mechanicsExperience and interest in combat gameplayConsole development experience\n\nYour Platform\n\nAt Blizzard Entertainment, we pour our hearts and souls into everything we create. Best known for iconic video game universes including Warcraft, Overwatch, Diablo, and StarCraft, we've been creating genre-defining games for millions of players around the world for more than 30 years. We're on a quest: bring our dreams to life and craft the most epic entertainment experiences...ever. Hard work, iteration, and polish go into the Blizzard \"secret recipe,\" but the most important ingredients come from talented people who share our vision. If that sounds like you, join us.\n\n\n\nOur World\n\nBest known for iconic video game universes including Warcraft, Overwatch, Diablo, and StarCraft, Blizzard Entertainment, Inc., a division of Activision Blizzard, which was acquired by Microsoft (NASDAQ: MSFT), is a premier developer and publisher of entertainment experiences. Blizzard Entertainment has created some of the industry's most critically acclaimed and genre",
-   "id": "gj-d7d0ea88826ddae1"
-  },
-  {
-   "company": "Mob Entertainment",
-   "category": "game",
-   "tier": "remote",
-   "commute": "",
-   "bucket": "game",
-   "engine_mentioned": true,
-   "sim_or_xr_mentioned": false,
-   "title": "Contract Technical UI/UX Designer - Video Games",
-   "location": "Anywhere (Remote)",
-   "url": "https://graphic-design.thecreativeloft.com/graphic-design/jobs/contract-technical-uiux-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-   "all_apply_links": [
-    "https://graphic-design.thecreativeloft.com/graphic-design/jobs/contract-technical-uiux-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-   ],
-   "source": "Google Jobs Graphic Design Jobs - The Creative Loft",
-   "posted": "",
-   "first_seen": "2026-11-24",
-   "pay": {
-    "text": "44\u201358 an hour"
-   },
-   "min_years_mentioned": 3,
-   "description_excerpt": "**Mob Entertainment**is a startup multimedia studio that is best known for our hit indie horror game \"**Poppy Playtime\"**.  This franchise is one of the hottest new properties in gaming, and our team is naturally expanding as our ambition expands.  **To give a taste of our brand's popularity, more than 100 billion YouTube views of Poppy Playtime related content have occurred since the game's launch 4 years ago.**\n\n\n\n### **The Role**\n\n\n\nWe\u2019re looking for a **Technical Designer** who can combine strong UI design implementation skills with player-first thinking to craft intuitive, immersive, and visually striking user interfaces in Unreal Engine.\n\n\n\nThis role sits at the intersection of design, art, and engineering. You\u2019ll be responsible for both **visual and technical execution** (layout, functionality, motion) of in-game UI, helping ensure players can seamlessly engage with our worlds without breaking immersion.\n\n\n\n### **What You\u2019ll Do**\n\n\n\n* Implement static and animated user interfaces that are easy to understand, easy to navigate, and convey information for effective end user experience.\n* Execute UI design in engine with a keen eye for detail at all levels \u2013 keeping in mind the overall art treatment, screen-to-screen- UI placement, and data structures, while applying and maintaining consistency throughout the entire project interface.\n* Ensure UI readability, accessibility, and responsiveness across platforms\n* Communicate and collaborate with UI and UX designers, UI engineers, technical designers and more to deliver features on time, in line with the art direction, and with the players best interest in mind.\n* Ensure our UI is optimal with continued iteration and development.\n* Routinely identify, implement, document, and advocate UI Blueprint architecture best practices and workflows to improve team effectiveness.\n\n\n\n### **What We\u2019re Looking For**\n\n\n\n* 3+ years of experience in UI technical design for games or interactive media\n* Strong proficiency with Unreal Engine and Blueprint scripting is required.\n* A strong eye for quality and are always seeking to improve.\n* Desire to solve problems and ability to think both technically and artistically, considering accessibility and optimization in your work.\n* Strong understanding of engine technologies, optimization, and data structures.\n* A positive attitude with the ability to give and receive constructive feedback.\n* Ability to analyze and solve sophisticated technical and design problems.\n* Experience building complex real-time user interfaces.\n* Ability to iterate & collaborate under deadlines & production constraints.\n\n\n\n### **Nice to Have**\n\n\n\n* Experience working on horror or atmospheric games\n* Motion design or UI animation skills\n* In-Engine UI Materials knowledge is a major plus.\n* Programming experience (C++, C#, etc.) is a plus.\n* Understanding of accessibility standards in games\n\n\n\n**Contract Rate:**\n\n\n\nThe contract rate for this position is listed below. Final compensation within the applicable salary range will be determined based on factors such as the applicant\u2019s experience, qualifications, and work location.\n\n\n\nSan Francisco, CA; New York City, NY; Los Angeles, CA; Seattle, WA; Boston, MA; & Seattle, WA DC Metropolitan Areas:   $44 - $58 USD hourly\n\n\n\nAustin, TX; Denver, CO; Nashville, TN; Atlanta, GA; Chicago, IL; Dallas, TX; & Miami, FL Metropolitan Areas:  $39 - $50 USD hourly\n\n\n\nAll Other U.S. Locations: $33 - $43 USD hourly\n\n\n\n#LI-Remote\n\n\n\nMob Entertainment is pr",
-   "id": "gj-e2e9be0ef919dffc"
   },
   {
    "company": "Gardens",
@@ -1233,7 +1141,7 @@
    "title": "Software Integration Engineer",
    "location": "US, Oregon, Hillsboro / US, Arizona, Phoenix",
    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Integration-Engineer_JR0288267",
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "first_seen": "2026-11-23",
    "pay": {
     "min": 149600,
@@ -1255,7 +1163,7 @@
    "title": "Embedded Software Engineers - Level 2 (Secret) - Chandler (AHT)",
    "location": "United States-Arizona-Chandler",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Embedded-Software-Engineers---Level-2--Secret----Chandler--AHT-_R10249150",
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "first_seen": "2026-11-23",
    "pay": {
     "min": 79300,
@@ -1277,7 +1185,7 @@
    "title": "Calling all Embedded Software Engineers!",
    "location": "United States-Arizona-Chandler",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Calling-all-Embedded-Software-Engineers-_R10253219",
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "first_seen": "2026-11-23",
    "pay": {
     "min": 87600,
@@ -1299,7 +1207,7 @@
    "title": "Calling all Cleared Software Engineers!",
    "location": "United States-California-Redondo Beach / United States-Colorado-Aurora / United States-Utah-Roy / United States-Virginia-Dulles / United States-Colorado-Colorado Springs / United States-Virginia-Fairfax / United States-Arizona-Gilbert / United States-Alabama-Huntsville / United States-Maryland-Linthicum / United States-California-Azusa / United States-North Carolina-Morrisville / United States-Arizona-Chandler",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Calling-all-Cleared-Software-Engineers-_R10253256",
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "first_seen": "2026-11-23",
    "pay": {
     "min": 65800,
@@ -1321,7 +1229,7 @@
    "title": "Engineer II- Software",
    "location": "AZ - Chandler",
    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-II--Software_R3011-26",
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "first_seen": "2026-11-23",
    "pay": null,
    "min_years_mentioned": 5,
