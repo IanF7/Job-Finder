@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:48:31+00:00",
+ "generated_at": "2026-11-27T19:37:23+00:00",
  "feeds_ok": 37,
  "feeds_failed": 0,
  "feeds": [
@@ -8,7 +8,7 @@
    "ats": "greenhouse",
    "feed": "riotgames",
    "ok": true,
-   "total_jobs": 199,
+   "total_jobs": 198,
    "matched": 0
   },
   {
@@ -16,7 +16,7 @@
    "ats": "greenhouse",
    "feed": "epicgames",
    "ok": true,
-   "total_jobs": 137,
+   "total_jobs": 138,
    "matched": 7
   },
   {
@@ -56,7 +56,7 @@
    "ats": "greenhouse",
    "feed": "2k",
    "ok": true,
-   "total_jobs": 85,
+   "total_jobs": 83,
    "matched": 1
   },
   {
@@ -72,7 +72,7 @@
    "ats": "workday",
    "feed": "warnerbros/global",
    "ok": true,
-   "total_jobs": 29,
+   "total_jobs": 27,
    "matched": 0
   },
   {
@@ -176,7 +176,7 @@
    "ats": "greenhouse",
    "feed": "nuro",
    "ok": true,
-   "total_jobs": 106,
+   "total_jobs": 107,
    "matched": 0
   },
   {
@@ -233,7 +233,7 @@
    "feed": "junior gameplay programmer @ United States",
    "ok": true,
    "total_jobs": 10,
-   "matched": 8
+   "matched": 6
   },
   {
    "company": "Google Jobs (SerpApi)",
@@ -249,15 +249,15 @@
    "feed": "associate game designer @ United States",
    "ok": true,
    "total_jobs": 10,
-   "matched": 3
+   "matched": 6
   },
   {
    "company": "Google Jobs (SerpApi)",
    "ats": "serpapi",
    "feed": "junior unreal engine developer @ United States",
    "ok": true,
-   "total_jobs": 5,
-   "matched": 2
+   "total_jobs": 2,
+   "matched": 1
   },
   {
    "company": "Google Jobs (SerpApi)",
@@ -273,7 +273,7 @@
    "feed": "game developer @ Phoenix, Arizona, United States",
    "ok": true,
    "total_jobs": 10,
-   "matched": 5
+   "matched": 7
   },
   {
    "company": "Google Jobs (SerpApi)",
@@ -281,15 +281,15 @@
    "feed": "unreal engine developer @ Phoenix, Arizona, United States",
    "ok": true,
    "total_jobs": 10,
-   "matched": 7
+   "matched": 6
   },
   {
    "company": "Google Jobs (SerpApi)",
    "ats": "serpapi",
    "feed": "unity developer @ Phoenix, Arizona, United States",
    "ok": true,
-   "total_jobs": 9,
-   "matched": 7
+   "total_jobs": 10,
+   "matched": 9
   },
   {
    "company": "Google Jobs (SerpApi)",
@@ -297,7 +297,7 @@
    "feed": "software engineer C++ @ Chandler, Arizona, United States",
    "ok": true,
    "total_jobs": 10,
-   "matched": 2
+   "matched": 1
   }
  ]
 }
